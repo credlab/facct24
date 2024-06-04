@@ -19,7 +19,7 @@ Analysis results come in two forms within the [facct_results.zip folder on Googl
 - results_by_query_category.csv: table with government domain appearances and mistargeting rates by query category.
 
 ## Code
-1. FAccT Proportions - Public.ipynb: notebook that processes organic result information and generates files found in facct_results folder.
+1. FAccT Proportions - Public.ipynb: notebook that processes organic result information and generates files found in facct_results folder. Currently includes some hardcoding.
 2. facct_analysis: R file that processes facct_results CSVs to get mistargeting rates, generating relevant tables and graphics.
 
 
