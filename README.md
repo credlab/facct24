@@ -7,7 +7,7 @@ Contains data, code, and results for "Algorithmic Misjudgement in Google Search 
 3. facct_public_gov_domains.csv: non-federal government domains and geoprovenance information for domains included in analysis (i.e., after error locations were dropped)
 
 ## SERP links
-Parsed SERP data (extracted organic results and ranks, organized by date) is available on Google Drive as [merged_rank.zip:] (https://drive.google.com/drive/folders/1mQR_ZwS2JPBtd6YKam962V7Ld0PfH39S?usp=drive_link)
+Parsed SERP data (extracted organic results and ranks, organized by date) is available on Google Drive as [merged_rank.zip](https://drive.google.com/drive/folders/1mQR_ZwS2JPBtd6YKam962V7Ld0PfH39S?usp=drive_link):
 
 ## Mistargeting Proportions
 Analysis results come in two forms within the [facct_results.zip folder on Google Drive](https://drive.google.com/drive/folders/1mQR_ZwS2JPBtd6YKam962V7Ld0PfH39S?usp=drive_link):
