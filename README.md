@@ -14,3 +14,7 @@ Analysis results come in two forms within the [facct_results.zip folder on Googl
 - Txt files that include a line per SERP that labels each organic result with its type (non-govt, federal, state, county, local, rep, sen, native), whether it is in the correct location (correctly targeted) and whether it is in state.
 - CSV files that include  a row per SERP with the number of government results of each type, and proportions for correctly targeted and mistargeted.
 
+Code for generating the above files - to be uploaded soon.
+
+## Analysis Files
+1. facct_analysis: R file that processes merged_rank results to get mistargeting rates, generating relevant tables and graphics.
