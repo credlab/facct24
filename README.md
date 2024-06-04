@@ -1,4 +1,4 @@
-# Overview
+## Overview
 Contains data, code, and results for ["Algorithmic Misjudgement in Google Search Results: Evidence from Auditing the US Online Electoral Information Environment"](https://facctconference.org/static/papers24/facct24-31.pdf)
 
 Citation:
