@@ -2,7 +2,7 @@
 Contains data, code, and results for ["Algorithmic Misjudgement in Google Search Results: Evidence from Auditing the US Online Electoral Information Environment"](https://facctconference.org/static/papers24/facct24-31.pdf)
 
 Citation:
-Brooke Perreault, Johanna Hoonsun Lee, Ropafadzo Shava, and Eni Mustafaraj. 2024. Algorithmic Misjudgement in Google Search Results: Evidence from Auditing the US Online Electoral Information Environment. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24), June 03–06, 2024, Rio de Janeiro, Brazil. ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3630106.3658916
+Brooke Perreault, Johanna Hoonsun Lee, Ropafadzo Shava, and Eni Mustafaraj. 2024. Algorithmic Misjudgement in Google Search Results: Evidence from Auditing the US Online Electoral Information Environment. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24), June 03–06, 2024, Rio de Janeiro, Brazil. ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3630106.3658916
 
 ## Scraping Audit Materials
 1. FAccT_Public_Audit_Locations.csv: locations where data was collected, with indicator for whether location was later dropped in analysis.
