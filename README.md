@@ -9,12 +9,16 @@ Contains data, code, and results for "Algorithmic Misjudgement in Google Search 
 ## SERP links
 Parsed SERP data (extracted organic results and ranks, organized by date) is available on Google Drive as [merged_rank.zip](https://drive.google.com/drive/folders/1mQR_ZwS2JPBtd6YKam962V7Ld0PfH39S?usp=drive_link):
 
-## Mistargeting Proportions
+## Analysis Results
+### SERP level 
 Analysis results come in two forms within the [facct_results.zip folder on Google Drive](https://drive.google.com/drive/folders/1mQR_ZwS2JPBtd6YKam962V7Ld0PfH39S?usp=drive_link):
 - Txt files that include a line per SERP that labels each organic result with its type (non-govt, federal, state, county, local, rep, sen, native), whether it is in the correct location (correctly targeted) and whether it is in state.
 - CSV files that include  a row per SERP with the number of government results of each type, and proportions for correctly targeted and mistargeted.
 
-Code for generating the above files - to be uploaded soon.
+### Aggregate mistargeting results
+- results_by_query_category.csv: table with government domain appearances and mistargeting rates by query category.
 
-## Analysis Files
+## Code
 1. facct_analysis: R file that processes merged_rank results to get mistargeting rates, generating relevant tables and graphics.
+
+
