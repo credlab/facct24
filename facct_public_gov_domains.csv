@@ -1,0 +1,1805 @@
+domain,is_state_of_interest,place,county,state,country,type,multi_state,district,Source
+a2gov.org,1,ann arbor,,michigan,USA,Local,,,GSA
+aacounty.org,0,,anne arundel county,Maryland,USA,County,,,GSA
+accessduarte.com,1,duarte,,california,USA,Local,,,GSA
+accesskent.com,1,accesskent,,michigan,USA,Local,,,GSA
+acgov.org,1,,alameda county,California,USA,County,,,GSA
+acworth.org,1,acworth,,georgia,USA,Local,,,GSA
+adacounty.id.gov,0,,Ada County,Idaho,USA,County,,,Manual Review
+adak-ak.gov,1,Adak,,Alaska,USA,Local,,,CISA
+adams.house.gov,1,,,North Carolina,,rep,,12,Manual Review
+adamscounty.us,1,,adams county,Pennsylvania,USA,County,,,GSA
+adamsmith.house.gov,1,,,Washington,,rep,,9,Manual Review
+aguilar.house.gov,1,,,California,,rep,,33,Manual Review
+akleg.gov,1,,,Alaska,USA,State,,,CISA
+alaska.gov,1,,,Alaska,USA,State,,,CISA
+albanycounty.com,1,,albany county,New York,USA,County,,,GSA
+albemarle.org,1,,albemarle county,Virginia,USA,County,,,GSA
+alexandercountync.gov,1,,alexander county,North Carolina,USA,County,,,CISA
+alleghenycounty.us,1,,allegheny county,Pennsylvania,USA,County,,,GSA
+allen.house.gov,1,,,Georgia,,rep,,12,Manual Review
+allencounty.us,1,,Allen County,Indiana,USA,County,,,Manual Review
+allencountyinvoters.gov,1,,allen county,Indiana,USA,County,,,CISA
+allentownpa.gov,1,Allentown,,Pennsylvania,USA,Local,,,CISA
+allentownship.org,1,allen township,,pennsylvania,USA,Local,,,GSA
+alpharetta.ga.us,1,alpharetta,,georgia,USA,Local,,,GSA
+alton.nh.gov,1,Alton,,New Hampshire,USA,Local,,,Manual Review
+amodei.house.gov,1,,,Nevada,,rep,,2,Manual Review
+amsterdamny.gov,1,Amsterdam,,New York,USA,Local,,,CISA
+anaheim.net,1,anaheim,,california,USA,Local,,,GSA
+andersoncountysc.org,0,,anderson county,South Carolina,USA,County,,,GSA
+andoverma.gov,0,Andover,,Massachusetts,USA,Local,,,CISA
+annapolis.gov,0,Annapolis,,Maryland,USA,Local,,,CISA
+anokacountymn.gov,1,,anoka county,Minnesota,USA,County,,,CISA
+apachecountyaz.gov,1,,apache county,Arizona,USA,County,,,CISA
+apexnc.org,1,apex,,north carolina,USA,Local,,,GSA
+appleton.org,1,appleton,,wisconsin,USA,Local,,,GSA
+applevalley.org,1,apple valley,,california,USA,Local,,,GSA
+apps.sos.wv.gov,0,,,West Virginia,USA,State,,,CISA
+arapahoevotes.gov,1,,arapahoe county,Colorado,USA,County,,,CISA
+arcadiaca.gov,1,Arcadia,,California,USA,Local,,,CISA
+archuletacounty.org,1,,archuleta county,Colorado,USA,County,,,GSA
+arlingtonma.gov,0,Arlington,,Massachusetts,USA,Local,,,CISA
+artesianm.gov,1,Artesia,,New Mexico,USA,Local,,,CISA
+arvin.org,1,arvin,,california,USA,Local,,,GSA
+ashecountygov.com,1,,ashe county,North Carolina,USA,County,,,GSA
+assembly.state.ny.us,1,,,New York,USA,State,,,Manual Review
+atchisoncountyks.org,1,,atchison county,Kansas,USA,County,,,GSA
+atlantaga.gov,1,Atlanta,,Georgia,USA,Local,,,CISA
+attorneygeneral.gov,1,,,Pennsylvania,USA,State,,,CISA
+auburnalabama.org,0,auburn,,alabama,USA,Local,,,GSA
+auburnmaine.gov,1,Auburn,,Maine,USA,Local,,,CISA
+augustaga.gov,1,Augusta,,Georgia,USA,Local,,,CISA
+augustamaine.gov,1,Augusta,,Maine,USA,Local,,,CISA
+aurora-il.org,1,aurora,,illinois,USA,Local,,,GSA
+austintexas.gov,1,Austin,,Texas,USA,Local,,,CISA
+averycountync.gov,1,,avery county,North Carolina,USA,County,,,CISA
+avondaleaz.gov,1,Avondale,,Arizona,USA,Local,,,CISA
+aws.state.ak.us,1,,,Alaska,USA,State,,,Manual Review
+az.gov,1,,,Arizona,USA,State,,,CISA
+azcleanelections.gov,1,,,Arizona,USA,State,,,CISA
+azcourts.gov,1,,,Arizona,USA,State,,,CISA
+azdot.gov,1,,,Arizona,USA,State,,,CISA
+azgovernor.gov,1,,,Arizona,USA,State,,,CISA
+azleg.gov,1,,,Arizona,USA,State,,,CISA
+azsos.gov,1,,,Arizona,USA,State,,,CISA
+bacon.house.gov,1,,,Nebraska,,rep,,2,Manual Review
+bakersfieldcity.us,1,bakersfield,,california,USA,Local,,,GSA
+baldwincountyga.com,1,,baldwin county,Georgia,USA,County,,,GSA
+baltimorecity.gov,0,Baltimore,,Maryland,USA,Local,,,CISA
+baltimorecountymd.gov,0,,baltimore county,Maryland,USA,County,,,CISA
+bangormaine.gov,1,Bangor,,Maine,USA,Local,,,CISA
+banning.ca.us,1,Banning,,California,USA,Local,,,Manual Review
+barharbormaine.gov,1,Bar Harbor,,Maine,USA,Local,,,CISA
+barroncountywi.gov,1,,barron county,Wisconsin,USA,County,,,CISA
+barrowga.org,1,barrow,,georgia,USA,Local,,,GSA
+barrycounty.org,1,,barry county,Michigan,USA,County,,,GSA
+barstowca.org,1,barstow,,california,USA,Local,,,GSA
+bartowcountyga.gov,1,,bartow county,Georgia,USA,County,,,CISA
+bass.house.gov,1,,,California,,rep,,37,Manual Review
+battlecreekmi.gov,1,Battle Creek,,Michigan,USA,Local,,,CISA
+baycounty-mi.gov,1,,bay county,Michigan,USA,County,,,CISA
+baycountyfl.gov,1,,bay county,Florida,USA,County,,,CISA
+bayvotesfl.gov,1,,bay county,Florida,USA,County,,,CISA
+bcnv.org,1,boulder city,,nevada,USA,Local,,,GSA
+beaumontca.gov,1,Beaumont,,California,USA,Local,,,CISA
+beavercountypa.gov,1,,beaver county,Pennsylvania,USA,County,,,CISA
+beavertonoregon.gov,1,Beaverton,,Oregon,USA,Local,,,CISA
+bedfordcountyva.gov,1,,bedford county,Virginia,USA,County,,,CISA
+bedfordnh.org,1,bedford,,new hampshire,USA,Local,,,GSA
+belen-nm.gov,1,Belen,,New Mexico,USA,Local,,,CISA
+bellcountytx.com,1,,bell county,Texas,USA,County,,,GSA
+bellflower.org,1,bellflower,,california,USA,Local,,,GSA
+bellgardens.org,1,bell gardens,,california,USA,Local,,,GSA
+belmont-ma.gov,0,Belmont,,Massachusetts,USA,Local,,,CISA
+beloitwi.gov,1,Beloit,,Wisconsin,USA,Local,,,CISA
+bendoregon.gov,1,Bend,,Oregon,USA,Local,,,CISA
+bera.house.gov,1,,,California,,rep,,6,Manual Review
+bergman.house.gov,1,,,Michigan,,rep,,1,Manual Review
+bernco.gov,1,,bernalillo county,New Mexico,USA,County,,,CISA
+berncoclerk.gov,1,,bernalillo county,New Mexico,USA,County,,,CISA
+berriencounty.org,1,,berrien county,Michigan,USA,County,,,GSA
+bethelmaine.org,1,bethel,,maine,USA,Local,,,GSA
+beverlyhills.org,1,beverly hills,,california,USA,Local,,,GSA
+beverlyma.gov,0,Beverly,,Massachusetts,USA,Local,,,CISA
+bexar.org,1,,bexar county,Texas,USA,County,,,GSA
+beyer.house.gov,1,,,Virginia,,rep,,8,Manual Review
+bilirakis.house.gov,1,,,Florida,,rep,,12,Manual Review
+bishop.house.gov,1,,,Georgia,,rep,,2,Manual Review
+blairco.org,1,,blair county,Pennsylvania,USA,County,,,GSA
+bloomfieldhillsmi.net,1,bloomfield hills,,michigan,USA,Local,,,GSA
+bloomfieldtwp.org,1,bloomfield township,,michigan,USA,Local,,,GSA
+bloomingtonmn.gov,1,Bloomington,,Minnesota,USA,Local,,,CISA
+blueearthcountymn.gov,1,,blue earth county,Minnesota,USA,County,,,CISA
+blumenauer.house.gov,1,,,Oregon,,rep,,3,Manual Review
+bobbyscott.house.gov,1,,,Virginia,,rep,,3,Manual Review
+boe.cuyahogacounty.gov,0,,cuyahoga county,Ohio,USA,County,,,CISA
+boe.ohio.gov,0,,,Ohio,USA,State,,,CISA
+boelections.geauga.oh.gov,0,,Geauga County,Ohio,USA,County,,,Manual Review
+bonamici.house.gov,1,,,Oregon,,rep,,1,Manual Review
+bonnersprings.org,1,bonner springs,,kansas,USA,Local,,,GSA
+boonecountyil.gov,1,,boone county,Illinois,USA,County,,,CISA
+borough.emmaus.pa.us,1,borough of emmaus,,pennsylvania,USA,Local,,,GSA
+boscawennh.gov,1,Boscawen,,New Hampshire,USA,Local,,,CISA
+boston.gov,0,Boston,,Massachusetts,USA,Local,,,CISA
+bouldercolorado.gov,1,Boulder,,Colorado,USA,Local,,,CISA
+bouldercounty.gov,1,,boulder county,Colorado,USA,County,,,CISA
+boyle.house.gov,1,,,Pennsylvania,,rep,,2,Manual Review
+bradfordcountypa.org,1,,bradford county,Pennsylvania,USA,County,,,GSA
+brazoriacountyclerktx.gov,1,,brazoria county,Texas,USA,County,,,CISA
+brightonco.gov,1,Brighton,,Colorado,USA,Local,,,CISA
+bristolri.gov,1,Bristol,,Rhode Island,USA,Local,,,CISA
+bristoltownship.org,1,bristol township,,pennsylvania,USA,Local,,,GSA
+brooklinema.gov,0,Brookline,,Massachusetts,USA,Local,,,CISA
+brooklynpark.org,1,brooklyn park,,minnesota,USA,Local,,,GSA
+broward.org,1,,broward county,Florida,USA,County,,,GSA
+browardvotes.gov,1,,broward county,Florida,USA,County,,,CISA
+browncounty-in.gov,1,,brown county,Indiana,USA,County,,,CISA
+browncountytx.org,1,,brown county,Texas,USA,County,,,GSA
+browncountywi.gov,1,,brown county,Wisconsin,USA,County,,,CISA
+brownsvilletx.gov,1,Brownsville,,Texas,USA,Local,,,CISA
+brunswickcountync.gov,1,,brunswick county,North Carolina,USA,County,,,CISA
+brunswickme.org,1,brunswick,,maine,USA,Local,,,GSA
+bryancountyga.org,1,,bryan county,Georgia,USA,County,,,GSA
+buchanan.house.gov,1,,,Florida,,rep,,16,Manual Review
+buchanancounty.iowa.gov,0,,Buchanan County,Iowa,USA,County,,,Manual Review
+buck.house.gov,1,,,Colorado,,rep,,4,Manual Review
+buckscounty.gov,1,,bucks county,Pennsylvania,USA,County,,,CISA
+bucoks.com,1,,butler county,Kansas,USA,County,,,GSA
+budd.house.gov,1,,,North Carolina,USA,rep,,,Manual Review
+buddycarter.house.gov,1,,,Georgia,,rep,,1,Manual Review
+buffalocounty.ne.gov,1,,Buffalo County,Nebraska,USA,County,,,Manual Review
+bullochcounty.net,1,,bulloch county,Georgia,USA,County,,,GSA
+buncombecounty.org,1,,buncombe county,North Carolina,USA,County,,,GSA
+burbankca.gov,1,Burbank,,California,USA,Local,,,CISA
+burgess.house.gov,1,,,Texas,,rep,,26,Manual Review
+burlington-wi.gov,1,Burlington,,Wisconsin,USA,Local,,,CISA
+burlington.org,0,burlington,,massachusetts,USA,Local,,,GSA
+burnsvillemn.gov,1,Burnsville,,Minnesota,USA,Local,,,CISA
+burrillville.org,1,burrillville,,rhode island,USA,Local,,,GSA
+burtcounty.ne.gov,1,,Burt County,Nebraska,USA,County,,,Manual Review
+bushkilltownship.com,1,bushkill township,,pennsylvania,USA,Local,,,GSA
+butlercountyne.gov,1,,butler county,Nebraska,USA,County,,,CISA
+butlercountypa.gov,1,,butler county,Pennsylvania,USA,County,,,CISA
+butterfield.house.gov,1,,,North Carolina,,rep,,1,Manual Review
+c3gov.com,1,commerce city,,colorado,USA,Local,,,GSA
+ca.gov,1,,,California,USA,State,,,CISA
+cabarruscounty.us,1,,cabarrus county,North Carolina,USA,County,,,GSA
+cabq.gov,1,Albuquerque,,New Mexico,USA,Local,,,CISA
+caldwellcountync.org,1,,caldwell county,North Carolina,USA,County,,,GSA
+calhouncountymi.gov,1,,calhoun county,Michigan,USA,County,,,CISA
+californiacity-ca.gov,1,California City,,California,USA,Local,,,CISA
+calvertcountymd.gov,0,,calvert county,Maryland,USA,County,,,CISA
+cambridgema.gov,0,Cambridge,,Massachusetts,USA,Local,,,CISA
+camdencounty.com,0,,camden county,New Jersey,USA,County,,,GSA
+camdencountyga.gov,1,,camden county,Georgia,USA,County,,,CISA
+camdencountync.gov,1,,camden county,North Carolina,USA,County,,,CISA
+cameroncountytx.gov,1,,cameron county,Texas,USA,County,,,CISA
+campverde.az.gov,1,Camp Verde,,Arizona,USA,Local,,,Manual Review
+canbyoregon.gov,1,Canby,,Oregon,USA,Local,,,CISA
+cannonfallsmn.gov,1,Cannon Falls,,Minnesota,USA,Local,,,CISA
+canton-mi.org,1,canton,,michigan,USA,Local,,,GSA
+capecharles.org,1,cape charles,,virginia,USA,Local,,,GSA
+carmeltownship-mi.gov,1,Charlotte,,Michigan,USA,Local,,,CISA
+carrollcountyga.com,1,,carroll county,Georgia,USA,County,,,GSA
+carrollcountyva.gov,1,,carroll county,Virginia,USA,County,,,CISA
+carson.house.gov,1,,,Indiana,,rep,,7,Manual Review
+carter.house.gov,1,,,Texas,,rep,,31,Manual Review
+carteretcountync.gov,1,,carteret county,North Carolina,USA,County,,,CISA
+cartwright.house.gov,1,,,Pennsylvania,,rep,,8,Manual Review
+cassidy.senate.gov,0,,,Louisiana,,sen,,,Manual Review
+casten.house.gov,1,,,Illinois,,rep,,6,Manual Review
+castor.house.gov,1,,,Florida,,rep,,14,Manual Review
+caswellcountync.gov,1,,caswell county,North Carolina,USA,County,,,CISA
+catawbacountync.gov,1,,catawba county,North Carolina,USA,County,,,CISA
+catoosa.com,1,,catoosa county,Georgia,USA,County,,,GSA
+cattco.org,1,,cattaraugus county,New York,USA,County,,,GSA
+cayugacounty.us,1,,cayuga county,New York,USA,County,,,GSA
+cctexas.com,1,corpus christi,,texas,USA,Local,,,GSA
+celebratedouglascounty.com,1,,douglas county,Georgia,USA,County,,,GSA
+centralfallsri.gov,1,Central Falls,,Rhode Island,USA,Local,,,CISA
+centrecountypa.gov,1,,centre county,Pennsylvania,USA,County,,,CISA
+chaffeeclerk.colorado.gov,1,,Chaffee County,Colorado,USA,County,,,Manual Review
+chandleraz.gov,1,Chandler,,Arizona,USA,Local,,,CISA
+charleston-sc.gov,0,Charleston,,South Carolina,USA,Local,,,CISA
+charlestoncounty.org,0,,charleston county,South Carolina,USA,County,,,GSA
+charlottesville.gov,1,Charlottesville,,Virginia,USA,Local,,,CISA
+charltoncountyga.us,1,,Charlton County,Georgia,USA,County,,,Manual Review
+chathamcountyga.gov,1,,chatham county,Georgia,USA,County,,,CISA
+chathamcountync.gov,1,,chatham county,North Carolina,USA,County,,,CISA
+chavescounty.gov,1,,chaves county,New Mexico,USA,County,,,CISA
+cheltenhamtownship.org,1,cheltenham township,,pennsylvania,USA,Local,,,GSA
+chemungcountyny.gov,1,,chemung county,New York,USA,County,,,CISA
+cherokeecounty-nc.gov,1,,cherokee county,North Carolina,USA,County,,,CISA
+cherokeecountyks.gov,1,,cherokee county,Kansas,USA,County,,,CISA
+cherokeega.com,1,cherokega,,georgia,USA,Local,,,GSA
+chesco.org,1,,chester county,Pennsylvania,USA,County,,,GSA
+chestertonin.org,1,chesterton,,indiana,USA,Local,,,GSA
+cheyennecity.org,0,cheyenne,,wyoming,USA,Local,,,GSA
+chicago.gov,1,Chicago,,Illinois,USA,Local,,,CISA
+chicagoelections.gov,1,Chicago,,Illinois,USA,Local,,,CISA
+chicagoridge.org,1,chicago ridge,,illinois,USA,Local,,,GSA
+chinoaz.net,1,chino valley,,arizona,USA,Local,,,GSA
+chinohills.org,1,chino hills,,california,USA,Local,,,GSA
+chippewafalls-wi.gov,1,Chippewa Falls,,Wisconsin,USA,Local,,,CISA
+christiancountyil.gov,1,,christian county,Illinois,USA,County,,,CISA
+chulavistaca.gov,1,Chula Vista,,California,USA,Local,,,CISA
+ci.afton.mn.us,1,afton,,minnesota,USA,Local,,,GSA
+ci.alamogordo.nm.us,1,alamogordo,,new mexico,USA,Local,,,GSA
+ci.apple-valley.mn.us,1,apple valley,,minnesota,USA,Local,,,GSA
+ci.azusa.ca.us,1,azusa,,california,USA,Local,,,GSA
+ci.bayport.mn.us,1,bayport,,minnesota,USA,Local,,,GSA
+ci.brea.ca.us,1,brea,,california,USA,Local,,,GSA
+ci.bristol.ct.us,0,bristol,,connecticut,USA,Local,,,GSA
+ci.brookfield.wi.us,1,brookfield,,wisconsin,USA,Local,,,GSA
+ci.cambridge.mn.us,1,Cambridge,,Minnesota,USA,Local,,,Manual Review
+ci.carson.ca.us,1,carson,,california,USA,Local,,,GSA
+ci.claremont.ca.us,1,clarmont,,california,USA,Local,,,GSA
+ci.colton.ca.us,1,colton,,california,USA,Local,,,GSA
+ci.commerce.ca.us,1,commerce,,california,USA,Local,,,GSA
+ci.cumberland.md.us,0,cumberland,,maryland,USA,Local,,,GSA
+ci.durham.nh.us,1,durham,,new hampshire,USA,Local,,,GSA
+ci.east-bethel.mn.us,1,east bethel,,minnesota,USA,Local,,,GSA
+ci.el-monte.ca.us,1,el monte,,california,USA,Local,,,GSA
+ci.excelsior.mn.us,1,excelsior,,minnesota,USA,Local,,,GSA
+ci.farmington.mi.us,1,Farmington,,Michigan,USA,Local,,,Manual Review
+ci.fitchburg.ma.us,0,fitchburg,,massachusetts,USA,Local,,,GSA
+ci.forest-lake.mn.us,1,Forest Lake,,Minnesota,USA,Local,,,Manual Review
+ci.fridley.mn.us,1,Fridley,,Minnesota,USA,Local,,,Manual Review
+ci.friendswood.tx.us,1,friendswood,,texas,USA,Local,,,GSA
+ci.galesburg.il.us,1,Galesburg,,Illinois,USA,Local,,,Manual Review
+ci.gladstone.or.us,1,gladstone,,oregon,USA,Local,,,GSA
+ci.greenfield.wi.us,1,greenfield,,wisconsin,USA,Local,,,GSA
+ci.hanford.ca.us,1,hanford,,california,USA,Local,,,GSA
+ci.lakeland.mn.us,1,Lakeland,,Minnesota,USA,Local,,,Manual Review
+ci.lathrop.ca.us,1,lathrop,,california,USA,Local,,,GSA
+ci.lebanon.or.us,1,lebanon,,oregon,USA,Local,,,GSA
+ci.lexington.mn.us,1,Lexington,,Minnesota,USA,Local,,,Manual Review
+ci.mahtomedi.mn.us,1,Mahtomedi,,Minnesota,USA,Local,,,Manual Review
+ci.manteca.ca.us,1,manteca,,california,USA,Local,,,GSA
+ci.manzanita.or.us,1,Manzanita,,Oregon,USA,Local,,,Manual Review
+ci.marathon.fl.us,1,Marathon,,Florida,USA,Local,,,Manual Review
+ci.marshfield.wi.us,1,marshfield,,wisconsin,USA,Local,,,GSA
+ci.mequon.wi.us,1,mequon,,wisconsin,USA,Local,,,GSA
+ci.neenah.wi.us,1,neenah,,wisconsin,USA,Local,,,GSA
+ci.north-branch.mn.us,1,North Branch,,Minnesota,USA,Local,,,Manual Review
+ci.northville.mi.us,1,Northville,,Michigan,USA,Local,,,Manual Review
+ci.oakdale.mn.us,1,Oakdale,,Minnesota,USA,Local,,,Manual Review
+ci.oakley.ca.us,1,oakley,,california,USA,Local,,,GSA
+ci.orono.mn.us,1,Orono,,Minnesota,USA,Local,,,Manual Review
+ci.oshkosh.wi.us,1,oshkosh,,wisconsin,USA,Local,,,GSA
+ci.oswego.or.us,1,lake oswego,,oregon,USA,Local,,,GSA
+ci.otsego.mn.us,1,otsego,,minnesota,USA,Local,,,GSA
+ci.patterson.ca.us,1,patterson,,california,USA,Local,,,GSA
+ci.philomath.or.us,1,philomath,,oregon,USA,Local,,,GSA
+ci.ramsey.mn.us,1,Ramsey,,Minnesota,USA,Local,,,Manual Review
+ci.richmond.ca.us,1,richmond,,california,USA,Local,,,GSA
+ci.sanger.ca.us,1,Sanger,,California,USA,Local,,,Manual Review
+ci.sheridan.co.us,1,sheridan,,colorado,USA,Local,,,GSA
+ci.stcloud.mn.us,1,st. cloud,,minnesota,USA,Local,,,GSA
+ci.stillwater.mn.us,1,Stillwater,,Minnesota,USA,Local,,,Manual Review
+ci.superior.wi.us,1,superior,,wisconsin,USA,Local,,,GSA
+ci.valparaiso.in.us,1,valparaiso,,indiana,USA,Local,,,GSA
+ci.verona.wi.us,1,verona,,wisconsin,USA,Local,,,GSA
+ci.wausau.wi.us,1,wausau,,wisconsin,USA,Local,,,GSA
+ci.wheatridge.co.us,1,wheat ridge,,colorado,USA,Local,,,GSA
+ci.wheeler.or.us,1,Wheeler,,Oregon,USA,Local,,,Manual Review
+ci.white-bear-township.mn.us,1,white bear township,,minnesota,USA,Local,,,GSA
+ci.wilsonville.or.us,1,wilsonville,,oregon,USA,Local,,,GSA
+cicilline.house.gov,1,,,Rhode Island,,rep,,1,Manual Review
+citrusheights.net,1,citrus heights,,california,USA,Local,,,GSA
+city.kodiak.ak.us,1,kodiak,,alaska,USA,Local,,,GSA
+city.waltham.ma.us,0,Waltham,,Massachusetts,USA,Local,,,Manual Review
+cityftmyers.com,1,fort myers,,florida,USA,Local,,,GSA
+citymedfordwi.com,1,medford,,wisconsin,USA,Local,,,GSA
+citynmb.com,1,north miami beach,,florida,USA,Local,,,GSA
+cityofalbionmi.gov,1,Albion,,Michigan,USA,Local,,,CISA
+cityofalhambra.org,1,alhambra,,california,USA,Local,,,GSA
+cityofamericancanyon.org,1,american canyon,,california,USA,Local,,,GSA
+cityofardenhills.org,1,arden hills,,minnesota,USA,Local,,,GSA
+cityofattleboro.us,0,attleboro,,massachusetts,USA,Local,,,GSA
+cityofauburn-ga.org,1,auburn,,georgia,USA,Local,,,GSA
+cityofavalon.com,1,avalon,,california,USA,Local,,,GSA
+cityofaventura.com,1,aventura,,florida,USA,Local,,,GSA
+cityofbeaverdam.com,1,beaver dam,,wisconsin,USA,Local,,,GSA
+cityofbelfast.org,1,belfast,,maine,USA,Local,,,GSA
+cityofbethel.org,1,bethel,,alaska,USA,Local,,,GSA
+cityofbradbury.org,1,bradbury,,california,USA,Local,,,GSA
+cityofcalabasas.com,1,calabassas,,california,USA,Local,,,GSA
+cityofcarlsbadnm.com,1,carlsbad,,new mexico,USA,Local,,,GSA
+cityofchesapeake.net,1,chesapeake,,virginia,USA,Local,,,GSA
+cityofchino.org,1,chino,,california,USA,Local,,,GSA
+cityofclovis.org,1,clovis,,new mexico,USA,Local,,,GSA
+cityofcorcoran.com,1,corcoran,,california,USA,Local,,,GSA
+cityofcreedmoor.org,1,creedmoor,,north carolina,USA,Local,,,GSA
+cityofcudahy.com,1,cudahy,,california,USA,Local,,,GSA
+cityofcuero.com,1,cuero,,texas,USA,Local,,,GSA
+cityofdelano.org,1,delano,,california,USA,Local,,,GSA
+cityofdepoebay.org,1,depoe bay,,oregon,USA,Local,,,GSA
+cityofeastlansing.com,1,east lansing,,michigan,USA,Local,,,GSA
+cityofeastpeoria.com,1,east peoria,,illinois,USA,Local,,,GSA
+cityofelberton.net,1,elberton,,georgia,USA,Local,,,GSA
+cityofelgin.org,1,elgin,,illinois,USA,Local,,,GSA
+cityofelkhorn.org,1,elkhorn,,wisconsin,USA,Local,,,GSA
+cityofestacada.org,1,estacada,,oregon,USA,Local,,,GSA
+cityofevanston.org,1,evanston,,illinois,USA,Local,,,GSA
+cityoffife.org,1,fife,,washington,USA,Local,,,GSA
+cityoffortpierce.com,1,fort pierce,,florida,USA,Local,,,GSA
+cityofhesperia.us,1,hesperia,,california,USA,Local,,,GSA
+cityofhinesville.org,1,hinesville,,georgia,USA,Local,,,GSA
+cityofhomer-ak.gov,1,Homer,,Alaska,USA,Local,,,CISA
+cityofhudson.org,1,hudson,,new york,USA,Local,,,GSA
+cityofinglewood.org,1,inglewood,,california,USA,Local,,,GSA
+cityofiola.com,1,iola,,kansas,USA,Local,,,GSA
+cityofirvine.org,1,irvine,,california,USA,Local,,,GSA
+cityofjackson.org,1,jackson,,michigan,USA,Local,,,GSA
+cityofkerman.net,1,kerman,,california,USA,Local,,,GSA
+cityofkingman.gov,1,Kingman,,Arizona,USA,Local,,,CISA
+cityofkingsburg-ca.gov,1,Kingsburg,,California,USA,Local,,,CISA
+cityofkotzebue.com,1,kotzebue,,alaska,USA,Local,,,GSA
+cityoflacrosse.org,1,la crosse,,wisconsin,USA,Local,,,GSA
+cityoflagunaniguel.org,1,laguna niguel,,california,USA,Local,,,GSA
+cityoflancasterpa.com,1,lancaster,,pennsylvania,USA,Local,,,GSA
+cityoflapalma.org,1,la palma,,california,USA,Local,,,GSA
+cityoflavista.org,1,la vista,,nebraska,USA,Local,,,GSA
+cityoflesueur.com,1,le sueur,,minnesota,USA,Local,,,GSA
+cityoflilburn.com,1,lilburn,,georgia,USA,Local,,,GSA
+cityofmacomb.com,1,macomb,,illinois,USA,Local,,,GSA
+cityofmadison.com,1,madison,,wisconsin,USA,Local,,,GSA
+cityofmarionwi.gov,1,MARION,,Wisconsin,USA,Local,,,CISA
+cityofmaywood.com,1,maywood,,california,USA,Local,,,GSA
+cityofmenasha-wi.gov,1,Menasha,,Wisconsin,USA,Local,,,Manual Review
+cityofmissionviejo.org,1,mission viejo,,california,USA,Local,,,GSA
+cityofmolalla.com,1,molalla,,oregon,USA,Local,,,GSA
+cityofmonrovia.org,1,monrovia,,california,USA,Local,,,GSA
+cityofmontclair.org,1,montclair,,california,USA,Local,,,GSA
+cityofnewport.com,1,newport,,rhode island,USA,Local,,,GSA
+cityofoakparkheights.com,1,oak park heights,,minnesota,USA,Local,,,GSA
+cityofokeechobee.com,1,okeechobee,,florida,USA,Local,,,GSA
+cityofpalmdale.org,1,palmdale,,california,USA,Local,,,GSA
+cityofpaloalto.org,1,palo alto,,california,USA,Local,,,GSA
+cityofpaola.com,1,paola,,kansas,USA,Local,,,GSA
+cityofpasadena.net,1,pasadena,,california,USA,Local,,,GSA
+cityofpittsfield.org,0,pittsfield,,massachusetts,USA,Local,,,GSA
+cityofportsmouth.com,1,portsmouth,,new hampshire,USA,Local,,,GSA
+cityofracine.org,1,racine,,wisconsin,USA,Local,,,GSA
+cityofripon.org,1,ripon,,california,USA,Local,,,GSA
+cityofrosemead.org,1,rosemead,,california,USA,Local,,,GSA
+cityofroseville.com,1,roseville,,minnesota,USA,Local,,,GSA
+cityofsafford.us,1,safford,,arizona,USA,Local,,,GSA
+cityofsalem.net,1,salem,,oregon,USA,Local,,,GSA
+cityofsanmarino.org,1,san marino,,california,USA,Local,,,GSA
+cityofsanmateo.org,1,san mateo,,california,USA,Local,,,GSA
+cityofschenectady.com,1,schenectady,,new york,USA,Local,,,GSA
+cityofselma.com,1,selma,,california,USA,Local,,,GSA
+cityofshawnee.org,1,shawnee,,kansas,USA,Local,,,GSA
+cityofsierramadre.com,1,sierra madre,,california,USA,Local,,,GSA
+cityofstockbridge.com,1,stockbridge,,georgia,USA,Local,,,GSA
+cityofsunprairie.com,1,sun prairie,,wisconsin,USA,Local,,,GSA
+cityoftacoma.org,1,tacoma,,washington,USA,Local,,,GSA
+cityoftaft.org,1,taft,,california,USA,Local,,,GSA
+cityoftaylor.com,1,taylor,,michigan,USA,Local,,,GSA
+cityofturlock.org,1,turlock,,california,USA,Local,,,GSA
+cityofutica.com,1,utica,,new york,USA,Local,,,GSA
+cityofwaterford.org,1,waterford,,california,USA,Local,,,GSA
+cityofwatsonville.org,1,watsonville,,california,USA,Local,,,GSA
+cityofwaupaca.org,1,waupaca,,wisconsin,USA,Local,,,GSA
+cityofwaupun.org,1,waupun,,wisconsin,USA,Local,,,GSA
+cityofwestfield.org,0,westfield,,massachusetts,USA,Local,,,GSA
+cityofwestminster.us,1,Westminster,,Colorado,USA,Local,,,Manual Review
+cityofweyauwega-wi.gov,1,Weyauwega,,Wisconsin,USA,Local,,,CISA
+cityofwinder.com,1,winder,,georgia,USA,Local,,,GSA
+cityofwinona.com,1,winona,,minnesota,USA,Local,,,GSA
+cityofypsilanti.com,1,ypsilanti,,michigan,USA,Local,,,GSA
+clackamas.us,1,,clackamas county,Oregon,USA,County,,,GSA
+clallam.net,1,,clallum county,Washington,USA,County,,,GSA
+clark.wa.gov,1,,Clark County,Washington,USA,County,,,Manual Review
+clarkcountynv.gov,1,,clark county,Nevada,USA,County,,,CISA
+clarkdale.az.gov,1,Clarkdale,,Arizona,USA,Local,,,Manual Review
+claycountymn.gov,1,,clay county,Minnesota,USA,County,,,CISA
+clayelections.gov,1,,clay county,Florida,USA,County,,,CISA
+claytoncountyga.gov,1,,clayton county,Georgia,USA,County,,,CISA
+clearfieldco.org,1,,clearfield county,Pennsylvania,USA,County,,,GSA
+clerk.mesacounty.us,1,,Mesa County,Colorado,USA,County,,,Manual Review
+clerk.wincoil.gov,1,,Winnebago County,Illinois,USA,County,,,Manual Review
+clevelandwi.gov,1,Cleveland,,Wisconsin,USA,Local,,,CISA
+clinton-county.org,1,,clinton county,Michigan,USA,County,,,GSA
+clintonco.illinois.gov,1,,Clinton County,Illinois,USA,County,,,Manual Review
+clintoncountygov.com,1,,clinton county,New York,USA,County,,,GSA
+clintoncountypa.gov,1,,clinton county,Pennsylvania,USA,County,,,CISA
+co.accomack.va.us,1,,accomack county,Virginia,USA,County,,,GSA
+co.adams.il.us,1,,Adams County,Illinois,USA,County,,,Manual Review
+co.aitkin.mn.us,1,,aitkin county,Minnesota,USA,County,,,GSA
+co.andrews.tx.us,1,,Andrews County,Texas,USA,County,,,Manual Review
+co.armstrong.pa.us,1,,armstrong county,Pennsylvania,USA,County,,,GSA
+co.ashland.wi.us,1,,ashland county,Wisconsin,USA,County,,,GSA
+co.becker.mn.us,1,,becker county,Minnesota,USA,County,,,GSA
+co.bee.tx.us,1,,bee county,Texas,USA,County,,,GSA
+co.benton.mn.us,1,,benton county,Minnesota,USA,County,,,GSA
+co.benton.or.us,1,,benton county,Oregon,USA,County,,,GSA
+co.bergen.nj.us,0,,bergen county,New Jersey,USA,County,,,GSA
+co.berks.pa.us,1,,berks county,Pennsylvania,USA,County,,,GSA
+co.brown.mn.us,1,,brown county,Minnesota,USA,County,,,GSA
+co.burlington.nj.us,0,,burlington county,New Jersey,USA,County,,,GSA
+co.butler.pa.us,1,,butler county,Pennsylvania,USA,County,,,GSA
+co.camden.ga.us,1,,camden county,Georgia,USA,County,,,GSA
+co.campbell.va.us,1,,campbell county,Virginia,USA,County,,,GSA
+co.caroline.va.us,1,,caroline county,Virginia,USA,County,,,GSA
+co.carver.mn.us,1,,carver county,Minnesota,USA,County,,,GSA
+co.cass.in.us,1,,Cass County,Indiana,USA,County,,,Manual Review
+co.chelan.wa.us,1,,chelan county,Washington,USA,County,,,GSA
+co.chenango.ny.us,1,,chenango county,New York,USA,County,,,GSA
+co.cherokee.tx.us,1,,cherokee county,Texas,USA,County,,,GSA
+co.chippewa.wi.us,1,,chippewa county,Wisconsin,USA,County,,,GSA
+co.clark.in.us,1,,Clark County,Indiana,USA,County,,,Manual Review
+co.clatsop.or.us,1,,clatsop county,Oregon,USA,County,,,GSA
+co.colfax.nm.us,1,,colfax county,New Mexico,USA,County,,,GSA
+co.columbia.wi.us,1,,columbia county,Wisconsin,USA,County,,,GSA
+co.comal.tx.us,1,,comal county,Texas,USA,County,,,GSA
+co.coos.or.us,1,,coos county,Oregon,USA,County,,,GSA
+co.cowlitz.wa.us,1,,cowlitz county,Washington,USA,County,,,GSA
+co.curry.or.us,1,,curry county,Oregon,USA,County,,,GSA
+co.davidson.nc.us,1,,davidson county,North Carolina,USA,County,,,GSA
+co.dekalb.in.us,1,,DeKalb County,Indiana,USA,County,,,Manual Review
+co.del-norte.ca.us,1,,Del Norte County,California,USA,County,,,Manual Review
+co.delaware.in.us,1,,Delaware County,Indiana,USA,County,,,Manual Review
+co.delaware.ny.us,1,,delaware county,New York,USA,County,,,GSA
+co.dewitt.tx.us,1,,dewitt county,Texas,USA,County,,,GSA
+co.dodge.mn.us,1,,dodge county,Minnesota,USA,County,,,GSA
+co.dodge.wi.gov,1,,Dodge County,Wisconsin,USA,County,,,Manual Review
+co.door.wi.gov,1,,Door County,Wisconsin,USA,County,,,Manual Review
+co.eau-claire.wi.us,1,,eau claire county,Wisconsin,USA,County,,,GSA
+co.eddy.nm.us,1,,eddy county,New Mexico,USA,County,,,GSA
+co.elk.pa.us,1,,Elk County,Pennsylvania,USA,County,,,Manual Review
+co.ellis.tx.us,1,,ellis county,Texas,USA,County,,,GSA
+co.essex.ny.us,1,,essex county,New York,USA,County,,,GSA
+co.fairbanks.ak.us,1,,fairbanks north star borough,alaska,USA,County,,,GSA
+co.forsyth.nc.us,1,,forsyth county,North Carolina,USA,County,,,GSA
+co.fresno.ca.us,1,,Fresno County,California,USA,County,,,Manual Review
+co.fulton.in.us,1,,Fulton County,Indiana,USA,County,,,Manual Review
+co.fulton.pa.us,1,,Fulton County,Pennsylvania,USA,County,,,Manual Review
+co.genesee.ny.us,1,,genesee county,New York,USA,County,,,GSA
+co.goliad.tx.us,1,,goliad county,Texas,USA,County,,,GSA
+co.gonzales.tx.us,1,,gonzales county,Texas,USA,County,,,GSA
+co.goodhue.mn.us,1,,goodhue county,Minnesota,USA,County,,,GSA
+co.grand.co.us,1,,grand county,Colorado,USA,County,,,GSA
+co.grays-harbor.wa.us,1,,grays harbor county,Washington,USA,County,,,GSA
+co.grayson.tx.us,1,,grayson county,Texas,USA,County,,,GSA
+co.greene.in.us,1,,Greene County,Indiana,USA,County,,,Manual Review
+co.greene.pa.us,1,,greene county,Pennsylvania,USA,County,,,GSA
+co.greenlee.az.us,1,,greenlee county,Arizona,USA,County,,,GSA
+co.guadalupe.tx.us,1,,guadalupe county,Texas,USA,County,,,GSA
+co.hendricks.in.us,1,,Hendricks County,Indiana,USA,County,,,Manual Review
+co.henry.ga.us,1,,Henry County,Georgia,USA,County,,,Manual Review
+co.hillsdale.mi.us,1,,Hillsdale County,Michigan,USA,County,,,Manual Review
+co.hood.tx.us,1,,hood county,Texas,USA,County,,,GSA
+co.howard.tx.us,1,,howard county,Texas,USA,County,,,GSA
+co.iron.wi.gov,1,,Iron County,Wisconsin,USA,County,,,Manual Review
+co.itasca.mn.us,1,,itasca county,Minnesota,USA,County,,,GSA
+co.jackson.mi.us,1,,Jackson County,Michigan,USA,County,,,Manual Review
+co.jackson.wi.us,1,,jackson county,Wisconsin,USA,County,,,GSA
+co.jefferson.ny.us,1,,jefferson county,New York,USA,County,,,GSA
+co.jefferson.wa.us,1,,jefferson county,Washington,USA,County,,,GSA
+co.kendall.il.us,1,,Kendall County,Illinois,USA,County,,,Manual Review
+co.kendall.tx.us,1,,kendall county,Texas,USA,County,,,GSA
+co.kerr.tx.us,1,,kerr county,Texas,USA,County,,,GSA
+co.kittitas.wa.us,1,,kittitas county,Washington,USA,County,,,GSA
+co.knox.il.us,1,,Knox County,Illinois,USA,County,,,Manual Review
+co.lake.mn.us,1,,lake county,Minnesota,USA,County,,,GSA
+co.lawrence.pa.us,1,,lawrence county,Pennsylvania,USA,County,,,GSA
+co.lee.tx.us,1,,lee county,Texas,USA,County,,,GSA
+co.lincoln.or.us,1,,lincoln county,Oregon,USA,County,,,GSA
+co.lincoln.wi.us,1,,lincoln county,Wisconsin,USA,County,,,GSA
+co.lucas.oh.us,0,,lucas county,Ohio,USA,County,,,GSA
+co.madison.il.us,1,,Madison County,Illinois,USA,County,,,Manual Review
+co.marathon.wi.us,1,,marathon county,Wisconsin,USA,County,,,GSA
+co.marion.or.us,1,,marion county,Oregon,USA,County,,,GSA
+co.marquette.wi.us,1,,marquette county,Wisconsin,USA,County,,,GSA
+co.marshall.in.us,1,,Marshall County,Indiana,USA,County,,,Manual Review
+co.mckinley.nm.us,1,,mckinley county,New Mexico,USA,County,,,GSA
+co.mclennan.tx.us,1,,mclennan county,Texas,USA,County,,,GSA
+co.meeker.mn.us,1,,meeker county,Minnesota,USA,County,,,GSA
+co.middlesex.va.us,1,,middlesex county,Virginia,USA,County,,,GSA
+co.midland.tx.us,1,,midland county,Texas,USA,County,,,GSA
+co.mifflin.pa.us,1,,mifflin county,Pennsylvania,USA,County,,,GSA
+co.monroe.in.us,1,,Monroe County,Indiana,USA,County,,,Manual Review
+co.monroe.mi.us,1,,Monroe County,Michigan,USA,County,,,Manual Review
+co.monroe.wi.us,1,,monroe county,Wisconsin,USA,County,,,GSA
+co.montague.tx.us,1,,montague county,Texas,USA,County,,,GSA
+co.montgomery.ny.us,1,,montgomery county,New York,USA,County,,,GSA
+co.mower.mn.us,1,,mower county,Minnesota,USA,County,,,GSA
+co.new-kent.va.us,1,,new kent county,Virginia,USA,County,,,GSA
+co.newton.ga.us,1,,Newton County,Georgia,USA,County,,,Manual Review
+co.nicollet.mn.us,1,,nicollet county,Minnesota,USA,County,,,GSA
+co.nobles.mn.us,1,,nobles county,Minnesota,USA,County,,,GSA
+co.northampton.va.us,1,,northampton county,Virginia,USA,County,,,GSA
+co.oconto.wi.us,1,,oconto county,Wisconsin,USA,County,,,GSA
+co.okeechobee.fl.us,1,,Okeechobee County,Florida,USA,County,,,Manual Review
+co.oneida.wi.us,1,,Oneida County,Wisconsin,USA,County,,,Manual Review
+co.otero.nm.us,1,,otero county,New Mexico,USA,County,,,GSA
+co.ozaukee.wi.us,1,,ozaukee county,Wisconsin,USA,County,,,GSA
+co.pacific.wa.us,1,,pacific county,Washington,USA,County,,,GSA
+co.pierce.wa.us,1,,pierce county,Washington,USA,County,,,GSA
+co.pierce.wi.us,1,,pierce county,Wisconsin,USA,County,,,GSA
+co.polk.mn.us,1,,polk county,Minnesota,USA,County,,,GSA
+co.polk.or.us,1,,polk county,Oregon,USA,County,,,GSA
+co.polk.tx.us,1,,polk county,Texas,USA,County,,,GSA
+co.polk.wi.us,1,,polk county,Wisconsin,USA,County,,,GSA
+co.portage.wi.us,1,,portage county,Wisconsin,USA,County,,,GSA
+co.price.wi.us,1,,price county,Wisconsin,USA,County,,,GSA
+co.rice.mn.us,1,,rice county,Minnesota,USA,County,,,GSA
+co.robertson.tx.us,1,,Robertson County,Texas,USA,County,,,Manual Review
+co.rockbridge.va.us,1,,rockbridge county,Virginia,USA,County,,,GSA
+co.routt.co.us,1,,routt county,Colorado,USA,County,,,GSA
+co.sangamon.il.us,1,,sangamon county,Illinois,USA,County,,,GSA
+co.santa-cruz.ca.us,1,,Santa Cruz County,California,USA,County,,,Manual Review
+co.shawano.wi.us,1,,shawano county,Wisconsin,USA,County,,,GSA
+co.somerset.nj.us,0,,somerset county,New Jersey,USA,County,,,GSA
+co.steuben.in.us,1,,Steuben County,Indiana,USA,County,,,Manual Review
+co.surry.nc.us,1,,surry county,North Carolina,USA,County,,,GSA
+co.tehama.ca.us,1,,Tehama County,California,USA,County,,,Manual Review
+co.tillamook.or.us,1,,tillamook county,Oregon,USA,County,,,GSA
+co.valencia.nm.us,1,,Valencia County,New Mexico,USA,County,,,Manual Review
+co.valley.ne.us,1,,Valley County,Nebraska,USA,County,,,Manual Review
+co.venango.pa.us,1,,venango county,Pennsylvania,USA,County,,,GSA
+co.wabasha.mn.us,1,,wabasha county,Minnesota,USA,County,,,GSA
+co.wadena.mn.us,1,,wadena county,Minnesota,USA,County,,,GSA
+co.wahkiakum.wa.us,1,,wahkiakum county,Washington,USA,County,,,GSA
+co.waller.tx.us,1,,waller county,Texas,USA,County,,,GSA
+co.walworth.wi.us,1,,walworth county,Wisconsin,USA,County,,,GSA
+co.wasco.or.us,1,,wasco county,Oregon,USA,County,,,GSA
+co.washington.mn.us,1,,washington county,Minnesota,USA,County,,,GSA
+co.washington.ne.us,1,,Washington County,Nebraska,USA,County,,,Manual Review
+co.washington.pa.us,1,,washington county,Pennsylvania,USA,County,,,GSA
+co.washington.tx.us,1,,washington county,Texas,USA,County,,,GSA
+co.waushara.wi.us,1,,waushara county,Wisconsin,USA,County,,,GSA
+co.wayne.in.us,1,,Wayne County,Indiana,USA,County,,,Manual Review
+co.weld.co.us,1,,Weld County,Colorado,USA,County,,,Manual Review
+co.westmoreland.pa.us,1,,westmoreland county,Pennsylvania,USA,County,,,GSA
+co.willacy.tx.us,1,,Willacy County,Texas,USA,County,,,Manual Review
+co.wilson.tx.us,1,,Wilson County,Texas,USA,County,,,Manual Review
+co.winnebago.wi.us,1,,winnebago county,Wisconsin,USA,County,,,GSA
+co.winona.mn.us,1,,winona county,Minnesota,USA,County,,,GSA
+co.wood.wi.us,1,,wood county,Wisconsin,USA,County,,,GSA
+co.wright.mn.us,1,,wright county,Minnesota,USA,County,,,GSA
+co.yamhill.or.us,1,,yamhill county,Oregon,USA,County,,,GSA
+cobbcounty.org,1,,cobb county,Georgia,USA,County,,,GSA
+cochise.az.gov,1,,Cochise County,Arizona,USA,County,,,Manual Review
+coconino.az.gov,1,,Coconino County,Arizona,USA,County,,,Manual Review
+cocovote.us,1,,Contra Costa County,California,USA,County,,,Manual Review
+coj.net,1,,jacksonville and duval county,Florida,USA,County,,,GSA
+coldwater.org,1,coldwater,,michigan,USA,Local,,,GSA
+colesco.illinois.gov,1,,Coles County,Illinois,USA,County,,,Manual Review
+colliervotes.gov,1,,Collier County,Florida,USA,County,,,CISA
+collincountytx.gov,1,,collin county,Texas,USA,County,,,CISA
+colorado.gov,1,,,Colorado,USA,State,,,CISA
+coloradosos.gov,1,,,Colorado,USA,State,,,CISA
+columbiaco.com,1,,columbia county,Washington,USA,County,,,GSA
+columbiacountyga.gov,1,,columbia county,Georgia,USA,County,,,CISA
+columbiacountyor.gov,1,,columbia county,Oregon,USA,County,,,CISA
+columbiaheightsmn.gov,1,Columbia Heights,,Minnesota,USA,Local,,,CISA
+columbiapa.org,1,,columbia county,Pennsylvania,USA,County,,,GSA
+columbiatwp.com,1,columbia township,,michigan,USA,Local,,,GSA
+columbusga.gov,1,Columbus,,Georgia,USA,Local,,,CISA
+comptoncity.org,1,compton,,california,USA,Local,,,GSA
+comstockmi.gov,1,Kalamazoo,,Michigan,USA,Local,,,CISA
+concordnh.gov,1,Concord,,New Hampshire,USA,Local,,,CISA
+conshohockenpa.gov,1,Conshohocken,,Pennsylvania,USA,Local,,,CISA
+contracostavote.gov,1,,contra costa county,California,USA,County,,,CISA
+cookcountyclerkil.gov,1,,cook county,Illinois,USA,County,,,CISA
+cookcountyil.gov,1,,cook county,Illinois,USA,County,,,CISA
+coolidgeaz.com,1,coolidge,,arizona,USA,Local,,,GSA
+coonrapidsmn.gov,1,Coon Rapids,,Minnesota,USA,Local,,,CISA
+coralgables.com,1,coral gables,,florida,USA,Local,,,GSA
+cortland-co.org,1,,cortland county,New York,USA,County,,,GSA
+cortlandville.org,1,cortlandville,,new york,USA,Local,,,GSA
+corvallisoregon.gov,1,Corvallis,,Oregon,USA,Local,,,CISA
+cosb.us,1,,san benito county,California,USA,County,,,GSA
+costa.house.gov,1,,,California,,rep,,21,Manual Review
+costamesaca.gov,1,Costa Mesa,,California,USA,Local,,,CISA
+cottagegrovemn.gov,1,Cottage Grove,,Minnesota,USA,Local,,,CISA
+counsel.nysed.gov,1,,,New York,USA,State,,,CISA
+countyclerk.sangamonil.gov,1,,sangamon county,Illinois,USA,County,,,CISA
+countynewscenter.com,1,,san diego county,california,USA,County,,,GSA
+countyofamherst.com,1,,amherst county,Virginia,USA,County,,,GSA
+countyofcolusa.org,1,,colusa county,California,USA,County,,,GSA
+countyofsb.org,1,,santa barbara county,California,USA,County,,,GSA
+coventryri.org,1,coventry,,rhode island,USA,Local,,,GSA
+covinaca.gov,1,Covina,,California,USA,Local,,,CISA
+coweta.ga.us,1,,Coweta County,Georgia,USA,County,,,Manual Review
+craig.house.gov,1,,,Minnesota,,rep,,2,Manual Review
+craigcountyva.gov,1,,cook county,Virginia,USA,County,,,CISA
+cranberrytownship.org,1,cranberry township,,pennsylvania,USA,Local,,,GSA
+cranstonri.gov,1,Cranston,,Rhode Island,USA,Local,,,CISA
+cravencountync.gov,1,,craven county,North Carolina,USA,County,,,CISA
+crawfordcountykansas.org,1,,crawford county,Kansas,USA,County,,,GSA
+crgov.com,1,castle rock,,colorado,USA,Local,,,GSA
+crow.house.gov,1,,,Colorado,,rep,,6,Manual Review
+crowwing.us,1,,crow wing county,Minnesota,USA,County,,,GSA
+cssrc.us,1,,,California,USA,State,,,Manual Review
+ct.gov,0,,,Connecticut,USA,State,,,CISA
+cubacity.org,1,cuba,,wisconsin,USA,Local,,,GSA
+culvercity.org,1,culver city,,california,USA,Local,,,GSA
+cumberlandcountync.gov,1,,cumberland county,North Carolina,USA,County,,,CISA
+cumberlandcountypa.gov,1,,cumberland county,Pennsylvania,USA,County,,,CISA
+cumberlandri.org,1,cumberland,,rhode island,USA,Local,,,GSA
+cwgdn.com,1,winter garden,,florida,USA,Local,,,GSA
+daculaga.gov,1,Dacula,,Georgia,USA,Local,,,CISA
+dadecityfl.com,1,dade city,,florida,USA,Local,,,GSA
+dadecounty-ga.gov,1,,dade county,Georgia,USA,County,,,CISA
+dakota.mn.us,1,,Dakota County,Minnesota,USA,County,,,Manual Review
+daltonga.gov,1,Dalton,,Georgia,USA,Local,,,CISA
+dankildee.house.gov,1,,,Michigan,,rep,,8,Manual Review
+danville-va.gov,1,Danville,,Virginia,USA,Local,,,CISA
+data.cityofnewyork.us,1,New York City,,New York,USA,Local,,,Manual Review
+davids.house.gov,1,,,Kansas,,rep,,3,Manual Review
+davidscott.house.gov,1,,,Georgia,,rep,,13,Manual Review
+davie-fl.gov,1,Davie,,Florida,USA,Local,,,CISA
+daviecountync.gov,1,,davie county,North Carolina,USA,County,,,CISA
+debary.org,1,debary,,florida,USA,Local,,,GSA
+debbiedingell.house.gov,1,,,Michigan,,rep,,6,Manual Review
+decaturcountyga.gov,1,,decatur county,Georgia,USA,County,,,CISA
+decaturga.com,1,decatur,,georgia,USA,Local,,,GSA
+dedham-ma.gov,0,Dedham,,Massachusetts,USA,Local,,,CISA
+defazio.house.gov,1,,,Oregon,,rep,,4,Manual Review
+degette.house.gov,1,,,Colorado,,rep,,1,Manual Review
+dekalbcountyga.gov,1,,dekalb county,Georgia,USA,County,,,CISA
+delaware.gov,0,,,Delaware,USA,State,,,CISA
+delawarecountyelections.iowa.gov,0,,Delaware County,Iowa,USA,County,,,Manual Review
+delbene.house.gov,1,,,Washington,,rep,,1,Manual Review
+delcopa.gov,1,,delaware county,Pennsylvania,USA,County,,,CISA
+deltacounty.com,1,,delta county,Colorado,USA,County,,,GSA
+demings.house.gov,1,,,Florida,,rep,,10,Manual Review
+denvergov.org,1,denver,,colorado,USA,Local,,,GSA
+deperewi.gov,1,De Pere,,Wisconsin,USA,Local,,,CISA
+desaulnier.house.gov,1,,,California,,rep,,10,Manual Review
+deschutes.org,1,,deschutes county,Oregon,USA,County,,,GSA
+desplaines.org,1,des plaines,,illinois,USA,Local,,,GSA
+detroitmi.gov,1,Detroit,,Michigan,USA,Local,,,CISA
+dhaz.gov,1,Humboldt,,Arizona,USA,Local,,,CISA
+diamondbarca.gov,1,Diamond Bar,,California,USA,Local,,,CISA
+dillinghamak.us,1,dillingham,,alaska,USA,Local,,,GSA
+dkcoks.gov,1,,dickinson county,Kansas,USA,County,,,CISA
+doggett.house.gov,1,,,Texas,,rep,,37,Manual Review
+dot.nm.gov,1,,,New Mexico,USA,State,,,Manual Review
+dougherty.ga.us,1,,Dougherty County,Georgia,USA,County,,,Manual Review
+douglas.co.us,1,,Douglas County,Colorado,USA,County,,,Manual Review
+douglascounty-ne.gov,1,,douglas county,Nebraska,USA,County,,,CISA
+douglascounty-oregon.us,1,,Douglas County,Oregon,USA,County,,,Manual Review
+douglascountywa.net,1,,douglas county,Washington,USA,County,,,GSA
+douglascountywi.org,1,,douglas county,Wisconsin,USA,County,,,GSA
+douglasvillega.gov,1,Douglasville,,Georgia,USA,Local,,,CISA
+dover.nh.gov,1,Dover,,New Hampshire,USA,Local,,,Manual Review
+downers.us,1,downers grove,,illinois,USA,Local,,,GSA
+doyle.house.gov,1,,,Pennsylvania,,rep,,18,Manual Review
+doylestownpa.org,1,doylestown township,,pennsylvania,USA,Local,,,GSA
+dubuquecountyiowa.gov,0,,dubuque county,Iowa,USA,County,,,CISA
+dunedingov.com,1,dunedin,,florida,USA,Local,,,GSA
+dupagecounty.gov,1,,dupage county,Illinois,USA,County,,,CISA
+dutchessny.gov,1,,dutchess county,New York,USA,County,,,CISA
+duvalelections.gov,1,,duval county,Florida,USA,County,,,CISA
+duvallwa.gov,1,Duvall,,Washington,USA,Local,,,CISA
+eagaraz.gov,1,Eagar,,Arizona,USA,Local,,,CISA
+eaglecounty.us,1,,Eagle County,Colorado,USA,County,,,Manual Review
+eastchicago.com,1,east chicago,,indiana,USA,Local,,,GSA
+eastgreenwichri.com,1,east greenwich,,rhode island,USA,Local,,,GSA
+eastmoline.com,1,east moline,,illinois,USA,Local,,,GSA
+eastport-me.gov,1,Eastport,,Maine,USA,Local,,,CISA
+eastprovidenceri.gov,1,East Providence,,Rhode Island,USA,Local,,,CISA
+eastvaleca.gov,1,Eastvale,,California,USA,Local,,,CISA
+eastwhiteland.org,1,east whiteland township,,pennsylvania,USA,Local,,,GSA
+eatoncounty.org,1,,eaton county,Michigan,USA,County,,,GSA
+eatonnh.org,1,eaton,,new hampshire,USA,Local,,,GSA
+eauclairecounty.gov,1,,eau claire county,Wisconsin,USA,County,,,CISA
+edcgov.us,1,,el dorado county,California,USA,County,,,GSA
+edenprairie.org,1,eden prairie,,minnesota,USA,Local,,,GSA
+edgecombecountync.gov,1,,edgecombe county,North Carolina,USA,County,,,CISA
+edinamn.gov,1,Edina,,Minnesota,USA,Local,,,CISA
+elbertcounty-co.gov,1,,elbert county,Colorado,USA,County,,,CISA
+elect.hamiltontn.gov,0,,hamilton county,Tennessee,USA,County,,,CISA
+election.rutherfordcountytn.gov,0,,Rutherford County,Tennessee,USA,County,,,Manual Review
+electionresults.sd.gov,0,,,South Dakota,USA,State,,,Manual Review
+elections.bcohio.gov,0,,butler county,Ohio,USA,County,,,CISA
+elections.calaverasgov.us,1,,Calaveras County,California,USA,County,,,Manual Review
+elections.carrollcountymd.gov,0,,carroll county,Maryland,USA,County,,,CISA
+elections.clintoncounty-ia.gov,0,,clinton county,Iowa,USA,County,,,CISA
+elections.co.kern.ca.us,1,,Kern County,California,USA,County,,,Manual Review
+elections.co.shasta.ca.us,1,,Shasta County,California,USA,County,,,Manual Review
+elections.erie.gov,1,,erie county,New York,USA,County,,,CISA
+elections.inyocounty.us,1,,Inyo County,California,USA,County,,,Manual Review
+elections.niagara.ny.us,1,,Niagara County,New York,USA,County,,,Manual Review
+electionsshelbytn.gov,0,,Shelby County,Tennessee,USA,County,,,CISA
+eliotmaine.org,1,eliot,,maine,USA,Local,,,GSA
+ellsworthmaine.gov,1,Ellsworth,,Maine,USA,Local,,,CISA
+elmhurst.org,1,elmhurst,,illinois,USA,Local,,,GSA
+elmirageaz.gov,1,El Mirage,,Arizona,USA,Local,,,CISA
+eloyaz.gov,1,Eloy,,Arizona,USA,Local,,,CISA
+emanuelco-ga.gov,1,,emanuel county,Georgia,USA,County,,,CISA
+encinitasca.gov,1,Encinitas,,California,USA,Local,,,CISA
+englewoodco.gov,1,Englewood,,Colorado,USA,Local,,,CISA
+erieco.gov,1,Erie,,Colorado,USA,Local,,,CISA
+eriecountypa.gov,1,,erie county,Pennsylvania,USA,County,,,CISA
+escambiavotes.gov,1,,escambia county,Florida,USA,County,,,CISA
+espaillat.house.gov,1,,,New York,,rep,,13,Manual Review
+estes.house.gov,1,,,Kansas,,rep,,4,Manual Review
+estespark.colorado.gov,1,Estes Park,,Colorado,USA,Local,,,Manual Review
+ethics.state.tx.us,1,,,Texas,USA,State,,,Manual Review
+eugene-or.gov,1,Eugene,,Oregon,USA,Local,,,CISA
+evanscolorado.gov,1,Evans,,Colorado,USA,Local,,,CISA
+exeternh.gov,1,Exeter,,New Hampshire,USA,Local,,,CISA
+fairbanksalaska.us,1,Fairbanks,,Alaska,USA,Local,,,Manual Review
+fairfaxcounty.gov,1,,fairfax county,Virginia,USA,County,,,CISA
+fairfieldct.org,0,fairfield,,connecticut,USA,Local,,,GSA
+fallriverma.org,0,fall river,,massachusetts,USA,Local,,,GSA
+fallschurchva.gov,1,Falls Church,,Virginia,USA,Local,,,CISA
+farmington-maine.org,1,farmington,,maine,USA,Local,,,GSA
+farmingtonmn.gov,1,Farmington,,Minnesota,USA,Local,,,CISA
+fauquiercounty.gov,1,,fauquier county,Virginia,USA,County,,,CISA
+fayettecountyga.gov,1,,fayette county,Georgia,USA,County,,,CISA
+fayettevillenc.gov,1,Fayetteville,,North Carolina,USA,Local,,,CISA
+fbfl.us,1,fernandina beach,,florida,USA,Local,,,GSA
+fcgov.com,1,fort collins,,colorado,USA,Local,,,GSA
+fcva.us,1,,frederick county,Virginia,USA,County,,,GSA
+fdlco.wi.gov,1,,Fond du Lac County,Wisconsin,USA,County,,,Manual Review
+fdot.gov,1,,,Florida,USA,State,,,CISA
+fentontownship.org,1,fenton township,,michigan,USA,Local,,,GSA
+fernandez.house.gov,1,,,New Mexico,,rep,,3,Manual Review
+finneycounty.org,1,,finney county,Kansas,USA,County,,,GSA
+firestoneco.gov,1,Firestone,,Colorado,USA,Local,,,CISA
+fitzpatrick.house.gov,1,,,Pennsylvania,,rep,,1,Manual Review
+flaglerelections.gov,1,,flagler county,Florida,USA,County,,,CISA
+flagstaff.az.gov,1,Flagstaff,,Arizona,USA,Local,,,Manual Review
+floridados.gov,1,,,Florida,USA,State,,,CISA
+floridaelectionwatch.gov,1,,,Florida,USA,State,,,CISA
+floridaredistricting.gov,1,,,Florida,USA,State,,,CISA
+flossmoor.org,1,flossmoor,,illinois,USA,Local,,,GSA
+floydcounty.in.gov,1,,Floyd County,Indiana,USA,County,,,Manual Review
+flsenate.gov,1,,,Florida,USA,State,,,CISA
+fluvannacounty.org,1,,fluvanna county,Virginia,USA,County,,,GSA
+fnsb.gov,1,,Fairbanks North Star Borough,Alaska,USA,County,,,CISA
+fordcounty.illinois.gov,1,,Ford County,Illinois,USA,County,,,Manual Review
+fordcounty.net,1,,ford county,Kansas,USA,County,,,GSA
+foresthillspa.org,1,forest hills,,pennsylvania,USA,Local,,,GSA
+forsythco.com,1,forsyth,,georgia,USA,Local,,,GSA
+fortbendcountytx.gov,1,,fort bend county,Texas,USA,County,,,CISA
+fortlauderdale.gov,1,,,Florida,USA,State,,,CISA
+fortlupton.org,1,fort lupton,,colorado,USA,Local,,,GSA
+fortluptonco.gov,1,Fort Lupton,,Colorado,USA,Local,,,CISA
+fortmyersbeachfl.gov,1,Fort Myers Beach,,Florida,USA,Local,,,CISA
+fortworthtexas.gov,1,Fort Worth,,Texas,USA,Local,,,CISA
+foster.house.gov,1,,,Illinois,,rep,,11,Manual Review
+foxcrossingwi.gov,1,Neenah,,Wisconsin,USA,Local,,,CISA
+framinghamma.gov,0,Framingham,,Massachusetts,USA,Local,,,CISA
+franklincoks.org,1,,franklin county,Kansas,USA,County,,,GSA
+franklincountyga.gov,1,,franklin county,Georgia,USA,County,,,CISA
+franklincountyil.gov,1,,franklin county,Illinois,USA,County,,,CISA
+franklincountync.gov,1,,franklin county,North Carolina,USA,County,,,CISA
+franklincountypa.gov,1,,franklin county,Pennsylvania,USA,County,,,CISA
+franklincountyva.gov,1,,franklin county,Virginia,USA,County,,,CISA
+franklincountywa.gov,1,,franklin county,Washington,USA,County,,,CISA
+franklinnh.org,1,franklin,,new hampshire,USA,Local,,,GSA
+franklintownship.us,1,Franklin Township,,Pennsylvania,USA,Local,,,Manual Review
+frederickco.gov,1,Frederick,,Colorado,USA,Local,,,CISA
+frederickcountymd.gov,0,,frederick county,Maryland,USA,County,,,CISA
+freeportmaine.com,1,freeport,,maine,USA,Local,,,GSA
+fremont.gov,1,Fremont,,California,USA,Local,,,CISA
+fresno.gov,1,Fresno,,California,USA,Local,,,CISA
+friscotexas.gov,1,Frisco,,Texas,USA,Local,,,CISA
+ftp.dot.state.tx.us,1,,,Texas,USA,State,,,Manual Review
+fultoncountyga.gov,1,,fulton county,Georgia,USA,County,,,CISA
+fultoncountyny.gov,1,,fulton county,New York,USA,County,,,CISA
+ga.gov,1,,,Georgia,USA,State,,,CISA
+gadoe.org,1,,,Georgia,USA,State,,,GSA
+gagecountynebraska.us,1,,Gage County,Nebraska,USA,County,,,Manual Review
+gallagher.house.gov,1,,,Wisconsin,,rep,,8,Manual Review
+gallupnm.gov,1,Gallup,,New Mexico,USA,Local,,,CISA
+garamendi.house.gov,1,,,California,,rep,,8,Manual Review
+gardencitymi.org,1,garden city,,michigan,USA,Local,,,GSA
+gardnerkansas.gov,1,Gardner,,Kansas,USA,Local,,,CISA
+garfield-county.com,1,,garfield county,Colorado,USA,County,,,GSA
+garlandtx.gov,1,Garland,,Texas,USA,Local,,,CISA
+garnernc.gov,1,Garner,,North Carolina,USA,Local,,,CISA
+gary.gov,1,Gary,,Indiana,USA,Local,,,CISA
+gencourt.state.nh.us,1,,,New Hampshire,USA,State,,,Manual Review
+georgia.gov,1,,,Georgia,USA,State,,,CISA
+ght.org,1,grand haven charter township,,michigan,USA,Local,,,GSA
+gilacountyaz.gov,1,,gila county,Arizona,USA,County,,,CISA
+gilbertaz.gov,1,Gilbert,,Arizona,USA,Local,,,CISA
+gis.broomecountyny.gov,1,,broome county,New York,USA,County,,,CISA
+gis.co.linn.or.us,1,,Linn County,Oregon,USA,County,,,Manual Review
+gis.elpasotexas.gov,1,El Paso,,Texas,USA,Local,,,CISA
+glendale-wi.org,1,glendale,,wisconsin,USA,Local,,,GSA
+glendaleaz.com,1,glendale,,arizona,USA,Local,,,GSA
+glendaleca.gov,1,Glendale,,California,USA,Local,,,CISA
+glocesterri.org,1,glocester,,rhode island,USA,Local,,,GSA
+gloucester-ma.gov,0,Gloucester,,Massachusetts,USA,Local,,,CISA
+glynncounty.org,1,,glynn county,Georgia,USA,County,,,GSA
+gobroomecounty.com,1,,broome county,New York,USA,County,,,GSA
+goffstown.com,1,goffstown,,new hampshire,USA,Local,,,GSA
+golden.house.gov,1,,,Maine,,rep,,2,Manual Review
+gomez.house.gov,1,,,California,,rep,,34,Manual Review
+gonzales.texas.gov,1,Gonzales,,Texas,USA,Local,,,Manual Review
+gonzalez.house.gov,1,,,Texas,,rep,,34,Manual Review
+goodyearaz.gov,1,Goodyear,,Arizona,USA,Local,,,CISA
+gordoncounty.org,1,,gordon county,Georgia,USA,County,,,GSA
+gorham-me.org,1,gorham,,maine,USA,Local,,,GSA
+gosar.house.gov,1,,,Arizona,,rep,,9,Manual Review
+governor.state.nm.us,1,,,New Mexico,USA,State,,,Manual Review
+graham.az.gov,1,,Graham County,Arizona,USA,County,,,Manual Review
+grandchute.net,1,grand chute,,wisconsin,USA,Local,,,GSA
+grandrapidsmi.gov,1,Grand Rapids,,Michigan,USA,Local,,,CISA
+grantcountynm.gov,1,,grant county,New Mexico,USA,County,,,CISA
+grantcountywa.gov,1,,grant county,Washington,USA,County,,,CISA
+graymaine.org,1,gray,,maine,USA,Local,,,GSA
+greeleygov.com,1,greeley,,colorado,USA,Local,,,GSA
+greenbaywi.gov,1,Green Bay,,Wisconsin,USA,Local,,,CISA
+greenburghny.com,1,greenburgh,,new york,USA,Local,,,GSA
+greenecountyga.gov,1,,greene county,Georgia,USA,County,,,CISA
+greenecountyva.gov,1,,greene county,Virginia,USA,County,,,CISA
+greenegovernment.com,1,,green county,New York,USA,County,,,GSA
+greenfield-nh.gov,1,Greenfield,,New Hampshire,USA,Local,,,CISA
+greenlakecountywi.gov,1,,green lake county,Wisconsin,USA,County,,,CISA
+greenlee.az.gov,1,,Greenlee County,Arizona,USA,County,,,Manual Review
+greenoaktwp.com,1,green oak township,,michigan,USA,Local,,,GSA
+greensboro-nc.gov,1,Greensboro,,North Carolina,USA,Local,,,CISA
+greenwichct.gov,0,Greenwich,,Connecticut,USA,Local,,,CISA
+greenwoodvillage.com,1,greenwood village,,colorado,USA,Local,,,GSA
+gretnane.org,1,gretna,,nebraska,USA,Local,,,GSA
+grijalva.house.gov,1,,,Arizona,,rep,,7,Manual Review
+grothman.house.gov,1,,,Wisconsin,,rep,,6,Manual Review
+grundycountyil.gov,1,,grundy county,Illinois,USA,County,,,CISA
+guilfordcountync.gov,1,,guilford county,North Carolina,USA,County,,,CISA
+gulfcounty-fl.gov,1,,gulf county,Florida,USA,County,,,CISA
+gwenmoore.house.gov,1,,,Wisconsin,,rep,,4,Manual Review
+gwinnettcounty.com,1,,gwinette county,Georgia,USA,County,,,GSA
+halifaxnc.com,1,halifax,,north carolina,USA,Local,,,GSA
+hallcounty.org,1,,hall county,Georgia,USA,County,,,GSA
+hallcountyne.gov,1,,hall county,Nebraska,USA,County,,,CISA
+hamiltoncounty.in.gov,1,,Hamilton County,Indiana,USA,County,,,Manual Review
+hampton-pa.org,1,hampton township,,pennsylvania,USA,Local,,,GSA
+hampton.gov,1,Hampton,,Virginia,USA,Local,,,CISA
+hamptonga.gov,1,Hampton,,Georgia,USA,Local,,,CISA
+hancockcountyohioelections.gov,0,,hancock county,Ohio,USA,County,,,CISA
+hancockmaine.org,1,hancock,,maine,USA,Local,,,GSA
+hankjohnson.house.gov,1,,,Georgia,,rep,,4,Manual Review
+hanoverboroughpa.gov,1,Hanover,,Pennsylvania,USA,Local,,,CISA
+hanovercounty.gov,1,,hanover county,Virginia,USA,County,,,CISA
+hanovernh.org,1,hanover,,new hampshire,USA,Local,,,GSA
+harlingentx.gov,1,Harlingen,,Texas,USA,Local,,,CISA
+harnett.org,1,harnett,,north carolina,USA,Local,,,GSA
+harriscountyga.gov,1,,harris county,Georgia,USA,County,,,CISA
+harriscountytx.gov,1,,harris county,Texas,USA,County,,,CISA
+harrisoncounty.in.gov,1,,Harrison County,Indiana,USA,County,,,Manual Review
+harveycounty.com,1,,harvey county,Kansas,USA,County,,,GSA
+hawaii.gov,0,,,Hawaii,USA,State,,,CISA
+haywoodcountync.gov,1,,haywood county,North Carolina,USA,County,,,CISA
+hebronnh.gov,1,Hebron,,New Hampshire,USA,Local,,,CISA
+henderson-county.com,1,,henderson county,Texas,USA,County,,,GSA
+hendersoncountync.gov,1,,henderson county,North Carolina,USA,County,,,CISA
+hennepin.us,1,,hennepin county,Minnesota,USA,County,,,GSA
+henniker.org,1,henniker,,new hampshire,USA,Local,,,GSA
+henrico.us,1,,henrico county,virginia,USA,County,,,GSA
+henryco.net,1,,henry county,Indiana,USA,County,,,GSA
+henrycountyva.gov,1,,henry county,Virginia,USA,County,,,CISA
+henrycty.com,1,,henry county,Illinois,USA,County,,,GSA
+herkimercounty.org,1,,herkimer county,New York,USA,County,,,GSA
+hermosabeach.gov,1,Hermosa Beach,,California,USA,Local,,,CISA
+hernandovotes.gov,1,,hernando county,Florida,USA,County,,,CISA
+herrell.house.gov,1,,,New Mexico,,rep,,2,Manual Review
+hice.house.gov,1,,,Georgia,,rep,,10,Manual Review
+hidalgocounty.us,1,,Hidalgo County,Texas,USA,County,,,Manual Review
+higgins.house.gov,1,,,New York,,rep,,26,Manual Review
+hillsdaleny.com,1,hillsdale,,new york,USA,Local,,,GSA
+hingham-ma.gov,0,Hingham,,Massachusetts,USA,Local,,,CISA
+hobbsnm.org,1,hobbs,,new mexico,USA,Local,,,GSA
+hokecounty.net,1,,hoke county,North Carolina,USA,County,,,GSA
+hollingsworth.house.gov,1,,,Indiana,,rep,,9,Manual Review
+hollyspringsnc.us,1,holly springs,,north carolina,USA,Local,,,GSA
+hollywoodfl.org,1,hollywood,,florida,USA,Local,,,GSA
+honolulu.gov,0,Honolulu,,Hawaii,USA,Local,,,CISA
+hopewelltownship.com,1,hopewell township,,pennsylvania,USA,Local,,,GSA
+hopkinsmn.com,1,hopkins,,minnesota,USA,Local,,,GSA
+hopkintonri.org,1,hopkinton,,rhode island,USA,Local,,,GSA
+hosting.okelections.us,0,,,Oklahoma,USA,State,,,Manual Review
+houghtoncounty.net,1,,houghton county,Michigan,USA,County,,,GSA
+houlahan.house.gov,1,,,Pennsylvania,,rep,,6,Manual Review
+house.louisiana.gov,0,,,Louisiana,USA,State,,,Manual Review
+house.state.pa.us,1,,,Pennsylvania,USA,State,,,Manual Review
+houstontx.gov,1,Houston,,Texas,USA,Local,,,CISA
+howardcountyin.gov,1,,howard county,Indiana,USA,County,,,CISA
+hpca.gov,1,Huntington Park,,California,USA,Local,,,CISA
+hsd.state.nm.us,1,,,New Mexico,USA,State,,,Manual Review
+hudson.house.gov,1,,,North Carolina,,rep,,9,Manual Review
+hudsoncolorado.org,1,hudson,,colorado,USA,Local,,,GSA
+hudsonnh.gov,1,Hudson,,New Hampshire,USA,Local,,,CISA
+hudsonwi.gov,1,Hudson,,Wisconsin,USA,Local,,,CISA
+huffman.house.gov,1,,,California,,rep,,2,Manual Review
+huizenga.house.gov,1,,,Michigan,,rep,,4,Manual Review
+huntington.in.us,1,Huntington,,Indiana,USA,Local,,,Manual Review
+hydeparkny.us,1,hyde park,,new york,USA,Local,,,GSA
+idaho.gov,0,,,Idaho,USA,State,,,CISA
+ighmn.gov,1,Inver Grove Heights,,Minnesota,USA,Local,,,CISA
+il.gov,1,,,Illinois,USA,State,,,CISA
+ilga.gov,1,,,Illinois,USA,State,,,CISA
+illinois.gov,1,,,Illinois,USA,State,,,CISA
+ilsos.gov,1,,,Illinois,USA,State,,,CISA
+in.gov,1,,,Indiana,USA,State,,,CISA
+indianavoters.in.gov,1,,,Indiana,USA,State,,,Manual Review
+indy.gov,1,Indianapolis,,Indiana,USA,Local,,,CISA
+info.scvotes.sc.gov,0,,,South Carolina,USA,State,,,CISA
+iowa.gov,0,,,Iowa,USA,State,,,CISA
+iowacourts.gov,0,,,Iowa,USA,State,,,CISA
+iredellcountync.gov,1,,iredell county,North Carolina,USA,County,,,CISA
+isabellacounty.org,1,,isabella county,Michigan,USA,County,,,GSA
+islandcountywa.gov,1,,island county,Washington,USA,County,,,CISA
+issaquahwa.gov,1,Issaquah,,Washington,USA,Local,,,CISA
+itasca.com,1,itasca,,illinois,USA,Local,,,GSA
+ivote.de.gov,0,,,Delaware,USA,State,,,CISA
+jacksoncounty-il.gov,1,,jackson county,Illinois,USA,County,,,CISA
+jacksoncountygov.com,1,,jackson county,Georgia,USA,County,,,GSA
+jacksonvillebeach.org,1,jacksonville beach,,florida,USA,Local,,,GSA
+jamescitycountyva.gov,1,,james city county,Virginia,USA,County,,,CISA
+jamestownri.gov,1,Jamestown,,Rhode Island,USA,Local,,,CISA
+janesvillewi.gov,1,Janesville,,Wisconsin,USA,Local,,,CISA
+jaspercountyin.gov,1,,jasper county,Indiana,USA,County,,,CISA
+jayapal.house.gov,1,,,Washington,,rep,,7,Manual Review
+jeffco.us,1,,jefferson county,Colorado,USA,County,,,GSA
+jeffersoncounty.in.gov,1,,Jefferson County,Indiana,USA,County,,,Manual Review
+jeffersoncountyga.gov,1,,jefferson county,Georgia,USA,County,,,CISA
+jeffersoncountywi.gov,1,,jefferson county,Wisconsin,USA,County,,,CISA
+jerome.az.gov,1,Jerome,,Arizona,USA,Local,,,Manual Review
+jfcountyks.com,1,,jefferson county,Kansas,USA,County,,,GSA
+jocogov.org,1,,johnson county,Kansas,USA,County,,,GSA
+jodaviess.org,1,,jo daviess county,Illinois,USA,County,,,GSA
+jodaviesscountyil.gov,1,,jo davies county,Illinois,USA,County,,,CISA
+johnscreekga.gov,1,Johns Creek,,Georgia,USA,Local,,,CISA
+johnsoncountyiowa.gov,0,,johnson county,Iowa,USA,County,,,CISA
+johnstonnc.com,1,,johnston county,North Carolina,USA,County,,,GSA
+joliet.gov,1,Joliet,,Illinois,USA,Local,,,CISA
+jonescountyga.org,1,,jones county,Georgia,USA,County,,,GSA
+jonesville.org,1,jonesville,,michigan,USA,Local,,,GSA
+juliabrownley.house.gov,1,,,California,,rep,,26,Manual Review
+juneau.org,1,juneau,,alaska,USA,Local,,,GSA
+jupiter.fl.us,1,jupiter,,florida,USA,Local,,,GSA
+kalcounty.com,1,,kalamazoo county,Michigan,USA,County,,,GSA
+kankakeecountyclerk.gov,1,,kankakee county,Illinois,USA,County,,,CISA
+kannapolisnc.gov,1,Concord,,North Carolina,USA,Local,,,CISA
+kansas.gov,1,,,Kansas,USA,State,,,CISA
+karuk.us,1,,,California,USA,State,,,Manual Review
+kathleenrice.house.gov,1,,,New York,,rep,,4,Manual Review
+katko.house.gov,1,,,New York,,rep,,24,Manual Review
+kcgov.com,1,,kosciusko county,Indiana,USA,County,,,GSA
+kcgov.us,0,,Kootenai County,Idaho,USA,County,,,Manual Review
+kcmo.gov,0,Kansas City,,Missouri,USA,Local,,,CISA
+keenenh.gov,1,Keene,,New Hampshire,USA,Local,,,CISA
+kendallcountyil.gov,1,,kendall county,Illinois,USA,County,,,CISA
+kenmorewa.gov,1,Kenmore,,Washington,USA,Local,,,CISA
+kennebunkmaine.us,1,kennebunk,,maine,USA,Local,,,GSA
+kennett.pa.us,1,Kennett Square,,Pennsylvania,USA,Local,,,Manual Review
+kentwood.us,1,Kentwood,,Michigan,USA,Local,,,Manual Review
+kgbak.us,1,Bakersfield,,California,USA,Local,,,Manual Review
+khanna.house.gov,1,,,California,,rep,,17,Manual Review
+kilmer.house.gov,1,,,Washington,,rep,,6,Manual Review
+kind.house.gov,1,,,Wisconsin,,rep,,3,Manual Review
+kingcounty.gov,1,,king county,Washington,USA,County,,,CISA
+kingston-ny.gov,1,Kingston,,New York,USA,Local,,,CISA
+kingstonnh.org,1,kingston,,new hampshire,USA,Local,,,GSA
+kirklandwa.gov,1,Kirkland,,Washington,USA,Local,,,CISA
+kirkpatrick.house.gov,1,,,Arizona,,rep,,2,Manual Review
+kitsapgov.com,1,,kitsap county,Washington,USA,County,,,GSA
+klamathcounty.org,1,,klamath county,Oregon,USA,County,,,GSA
+knightdalenc.gov,1,Knightdale,,North Carolina,USA,Local,,,CISA
+knoxcounty.org,0,,knox county,Tennessee,USA,County,,,GSA
+kodiakak.us,1,kodiak island borough,,alaska,USA,Local,,,GSA
+ks-nemaha.manatron.com,1,,nemaha county,Kansas,USA,County,,,GSA
+ks.gov,1,,,Kansas,USA,State,,,CISA
+kscourts.org,1,,,Kansas,USA,State,,,GSA
+kslegislature.org,1,,,Kansas,USA,State,,,GSA
+kssos.org,1,,,Kansas,USA,State,,,GSA
+ktn-ak.us,1,Ketchikan Gateway Borough,,Alaska,USA,Local,,,Manual Review
+kuster.house.gov,1,,,New Hampshire,,rep,,2,Manual Review
+ky.gov,0,,,Kentucky,USA,State,,,CISA
+la.gov,0,,,Louisiana,USA,State,,,CISA
+lacity.org,1,los angeles,,california,USA,Local,,,GSA
+lackawannacounty.org,1,,lackawanna county,Pennsylvania,USA,County,,,GSA
+laconianh.gov,1,Laconia,,New Hampshire,USA,Local,,,CISA
+lacounty.gov,1,,los angeles county,California,USA,County,,,CISA
+lacrossecounty.org,1,,la crosse county,Wisconsin,USA,County,,,GSA
+lakecounty.in.gov,1,,Lake County,Indiana,USA,County,,,Manual Review
+lakecountyca.gov,1,,lake county,California,USA,County,,,CISA
+lakecountyil.gov,1,,lake county,Illinois,USA,County,,,CISA
+lakecountyohio.gov,0,,lake county,Ohio,USA,County,,,CISA
+lakecountyor.org,1,,lake county,Oregon,USA,County,,,GSA
+lakeforestca.gov,1,Lake Forest,,California,USA,Local,,,CISA
+lakelandgov.net,1,lakeland,,florida,USA,Local,,,GSA
+lakevillemn.gov,1,Lakeville,,Minnesota,USA,Local,,,CISA
+lakeworthbeachfl.gov,1,Lake Worth Beach,,Florida,USA,Local,,,CISA
+lamalfa.house.gov,1,,,California,,rep,,1,Manual Review
+lamb.house.gov,1,,,Pennsylvania,,rep,,17,Manual Review
+lancaster.ne.gov,1,,Lancaster County,Nebraska,USA,County,,,Manual Review
+lancaster.pa.us,1,Lancaster,,Pennsylvania,USA,Local,,,Manual Review
+lancasterwisconsin.com,1,lancaster,,wisconsin,USA,Local,,,GSA
+lanecounty.org,1,,lane county,Oregon,USA,County,,,GSA
+langevin.house.gov,1,,,Rhode Island,,rep,,2,Manual Review
+lansingmi.gov,1,Lansing,,Michigan,USA,Local,,,CISA
+lansingtownship.org,1,lansing township,,michigan,USA,Local,,,GSA
+larimer.gov,1,,larimer county,Colorado,USA,County,,,CISA
+larsen.house.gov,1,,,Washington,,rep,,2,Manual Review
+las-cruces.org,1,las cruces,,new mexico,USA,Local,,,GSA
+lasvegasnevada.gov,1,Las Vegas,,Nevada,USA,Local,,,CISA
+latfor.state.ny.us,1,,,New York,USA,State,,,Manual Review
+lauderdalelakes.org,1,lauderdale lakes,,florida,USA,Local,,,GSA
+laurenscoga.org,1,,laurens county,Georgia,USA,County,,,GSA
+lavote.gov,1,,los angeles county,California,USA,County,,,CISA
+lawrence.house.gov,1,,,Michigan,,rep,,14,Manual Review
+lawrencecounty.in.gov,1,,Lawrence County,Indiana,USA,County,,,Manual Review
+lawrencecountypa.gov,1,,lawrence county,Pennsylvania,USA,County,,,CISA
+lawrencevillega.org,1,lawrenceville,,georgia,USA,Local,,,GSA
+lawrencewi.gov,1,De Pere,,Wisconsin,USA,Local,,,CISA
+leacounty.net,1,,lea county,New Mexico,USA,County,,,GSA
+leaguecitytx.gov,1,League City,,Texas,USA,Local,,,CISA
+leavenworthcounty.gov,1,,leavenworth county,Kansas,USA,County,,,CISA
+lebanonnh.gov,1,Lebanon,,New Hampshire,USA,Local,,,CISA
+lebcounty.org,1,,lebanon county,Pennsylvania,USA,County,,,GSA
+leecountync.gov,1,,lee county,North Carolina,USA,County,,,CISA
+leegov.com,1,,lee county,Florida,USA,County,,,GSA
+leg.mt.gov,0,,,Montana,USA,State,,,Manual Review
+leg.state.fl.us,1,,,Florida,USA,State,,,Manual Review
+leg.state.nv.us,1,,,Nevada,USA,State,,,Manual Review
+legis.state.pa.us,1,,,Pennsylvania,USA,State,,,Manual Review
+lehighcounty.org,1,,lehigh county,Pennsylvania,USA,County,,,GSA
+lenawee.mi.us,1,,Lenawee County,Michigan,USA,County,,,Manual Review
+leonvotes.gov,1,,leon county,Florida,USA,County,,,CISA
+lewiscountywa.gov,1,,lewis county,Washington,USA,County,,,CISA
+lewistonmaine.gov,1,Lewiston,,Maine,USA,Local,,,CISA
+lexingtonma.gov,0,Lexington,,Massachusetts,USA,Local,,,CISA
+lhcaz.gov,1,Lake Havasu City,,Arizona,USA,Local,,,CISA
+libertycountyga.com,1,,liberty county,Georgia,USA,County,,,GSA
+lincolncity.org,1,lincoln city,,oregon,USA,Local,,,GSA
+lincolncounty.org,1,,lincoln county,North Carolina,USA,County,,,GSA
+lincolncountynm.gov,1,,lincoln county,New Mexico,USA,County,,,CISA
+linncountyiowa.gov,0,,linn county,Iowa,USA,County,,,CISA
+littlechutewi.org,1,little chute,,wisconsin,USA,Local,,,GSA
+littletongov.org,1,littleton,,colorado,USA,Local,,,GSA
+littletonma.org,0,littleton,,massachusetts,USA,Local,,,GSA
+liveuptehachapi.com,1,tehachapi,,california,USA,Local,,,GSA
+livingstoncounty.us,1,,Livingston County,New York,USA,County,,,Manual Review
+lkm.org,1,,,Kansas,USA,State,,,GSA
+lodi.gov,1,Lodi,,California,USA,Local,,,CISA
+lofgren.house.gov,1,,,California,,rep,,18,Manual Review
+logancountyil.gov,1,,logan county,Illinois,USA,County,,,CISA
+lomalinda-ca.gov,1,Loma Linda,,California,USA,Local,,,CISA
+longbeach.gov,1,Long Beach,,California,USA,Local,,,CISA
+longmontcolorado.gov,1,Longmont,,Colorado,USA,Local,,,CISA
+loslunasnm.gov,1,Los Lunas,,New Mexico,USA,Local,,,CISA
+loudermilk.house.gov,1,,,Georgia,,rep,,11,Manual Review
+loudoun.gov,1,,loudoun county,Virginia,USA,County,,,CISA
+louisacounty.com,1,,louisa county,Virginia,USA,County,,,GSA
+louisburgkansas.gov,1,Louisburg,,Kansas,USA,Local,,,CISA
+louisvilleco.gov,1,Louisville,,Colorado,USA,Local,,,CISA
+louisvilleky.gov,0,Louisville,,Kentucky,USA,Local,,,CISA
+lowellma.gov,0,Lowell,,Massachusetts,USA,Local,,,CISA
+lowenthal.house.gov,1,,,California,,rep,,47,Manual Review
+lowersaucontownship.org,1,lower saucon township,,pennsylvania,USA,Local,,,GSA
+lowndescounty.com,1,,lowndes county,Georgia,USA,County,,,GSA
+lucascountyohiovotes.gov,0,,lucas county,Ohio,USA,County,,,CISA
+lumpkincounty.gov,1,,lumpkin county,Georgia,USA,County,,,CISA
+lunacountynm.us,1,,Luna County,New Mexico,USA,County,,,Manual Review
+luria.house.gov,1,,,Virginia,,rep,,2,Manual Review
+luzernecounty.org,1,,luzerne county,Pennsylvania,USA,County,,,GSA
+lwm-info.org,1,,,Wisconsin,USA,State,,,GSA
+lwv.corvallis.or.us,1,Corvallis,,Oregon,USA,Local,,,Manual Review
+lyco.org,1,,lycoming county,Pennsylvania,USA,County,,,GSA
+lymenh.gov,1,Lyme,,New Hampshire,USA,Local,,,CISA
+lynwood.ca.us,1,Lynwood,,California,USA,Local,,,Manual Review
+lyoncounty.org,1,,lyon county,Kansas,USA,County,,,GSA
+maconbibb.us,1,,Macon-Bibb County,Georgia,USA,County,,,Manual Review
+madera.gov,1,Madera,,California,USA,Local,,,CISA
+madison-nh.org,1,madison,,new hampshire,USA,Local,,,GSA
+madisonco.virginia.gov,1,,Madison County,Virginia,USA,County,,,Manual Review
+madisoncounty.in.gov,1,,Madison County,Indiana,USA,County,,,Manual Review
+madisoncounty.ny.gov,1,,Madison County,New York,USA,County,,,Manual Review
+madisoncountyil.gov,1,,madison county,Illinois,USA,County,,,CISA
+madisonct.org,0,madison,,connecticut,USA,Local,,,GSA
+madisonmaine.com,1,madison,,maine,USA,Local,,,GSA
+mahoningcountyoh.gov,0,,mahoning county,Ohio,USA,County,,,CISA
+mahwahtwp.org,0,township of mahwah,,new jersey,USA,Local,,,GSA
+maine.gov,1,,,Maine,USA,State,,,CISA
+malegislature.gov,0,,,Massachusetts,USA,State,,,CISA
+malheurco.org,1,,malheur county,Oregon,USA,County,,,GSA
+maloney.house.gov,1,,,New York,,rep,,12,Manual Review
+malta-town.org,1,malta,,new york,USA,Local,,,GSA
+manchesternh.gov,1,Manchester,,New Hampshire,USA,Local,,,CISA
+manhattanbeach.gov,1,Manhattan Beach,,California,USA,Local,,,CISA
+manitowoc.org,1,manitowoc,,wisconsin,USA,Local,,,GSA
+maplegrovemn.gov,1,Maple Grove,,Minnesota,USA,Local,,,CISA
+mapleplain.com,1,maple plain,,minnesota,USA,Local,,,GSA
+maplevalleywa.gov,1,Maple Valley,,Washington,USA,Local,,,CISA
+maplewoodmn.gov,1,Maplewood,,Minnesota,USA,Local,,,CISA
+maricopa-az.gov,1,Maricopa,,Arizona,USA,Local,,,CISA
+maricopa.gov,1,,maricopa county,Arizona,USA,County,,,CISA
+martincountyncgov.com,1,,martin county,North Carolina,USA,County,,,GSA
+martinvotes.gov,1,,Martin County,Florida,USA,County,,,CISA
+maryland.gov,0,,,Maryland,USA,State,,,CISA
+mass.gov,0,,,Massachusetts,USA,State,,,CISA
+mast.house.gov,1,,,Florida,,rep,,21,Manual Review
+matsugov.us,1,matanuska-susitna borough,,alaska,USA,Local,,,GSA
+mccaul.house.gov,1,,,Texas,,rep,,10,Manual Review
+mcclintock.house.gov,1,,,California,,rep,,5,Manual Review
+mccollum.house.gov,1,,,Minnesota,,rep,,4,Manual Review
+mceachin.house.gov,1,,,Virginia,,rep,,4,Manual Review
+mcg.mcdonough.il.us,1,,McDonough County,Illinois,USA,County,,,Manual Review
+mcgtn.org,0,,montgomery county,Tennessee,USA,County,,,GSA
+mchenrycountyil.gov,1,,mchenry county,Illinois,USA,County,,,CISA
+mcleancountyil.gov,1,,mclean county,Illinois,USA,County,,,CISA
+mcnerney.house.gov,1,,,California,,rep,,9,Manual Review
+mecknc.gov,1,,mecklenburg county,North Carolina,USA,County,,,CISA
+mendota-heights.com,1,mendota heights,,minnesota,USA,Local,,,GSA
+menomonee-falls.org,1,menomonee falls,,wisconsin,USA,Local,,,GSA
+menomonie-wi.gov,1,Menomonie,,Wisconsin,USA,Local,,,CISA
+mercercountypa.gov,1,,mercer county,Pennsylvania,USA,County,,,CISA
+meridian.mi.us,1,Meridian Township,,Michigan,USA,Local,,,Manual Review
+merriam.org,1,merriam,,kansas,USA,Local,,,GSA
+merrillville.in.gov,1,Merrillville,,Indiana,USA,Local,,,Manual Review
+merrimacknh.gov,1,Merrimack,,New Hampshire,USA,Local,,,CISA
+mesaaz.gov,1,Mesa,,Arizona,USA,Local,,,CISA
+mesquitenv.gov,1,Mesquite,,Nevada,USA,Local,,,CISA
+mi.gov,1,,,Michigan,USA,State,,,CISA
+miamibeachfl.gov,1,Miami Beach,,Florida,USA,Local,,,CISA
+miamicountyin.gov,1,,miami county,Indiana,USA,County,,,CISA
+miamidade.gov,1,,miami dade county,Florida,USA,County,,,CISA
+miamigov.com,1,miami,,florida,USA,Local,,,GSA
+michigan.gov,1,,,Michigan,USA,State,,,CISA
+middleboroughma.gov,0,Middleborough,,Massachusetts,USA,Local,,,CISA
+middlesexcountynj.gov,0,,middlesex county,New Jersey,USA,County,,,CISA
+middletown-ny.com,1,middletown,,new york,USA,Local,,,GSA
+middletownct.gov,0,Middletown,,Connecticut,USA,Local,,,CISA
+mielections.us,1,,,Michigan,USA,State,,,Manual Review
+mikethompson.house.gov,1,,,California,,rep,,4,Manual Review
+milford.nh.gov,1,Milford,,New Hampshire,USA,Local,,,Manual Review
+milfordma.gov,0,Milford,,Massachusetts,USA,Local,,,CISA
+millelacs.mn.gov,1,,Mille Lacs County,Minnesota,USA,County,,,Manual Review
+millikenco.gov,1,Milliken,,Colorado,USA,Local,,,CISA
+milton-wi.gov,1,Milton,,Wisconsin,USA,Local,,,CISA
+milwaukee.gov,1,Milwaukee,,Wisconsin,USA,Local,,,CISA
+milwaukieoregon.gov,1,Milwaukie,,Oregon,USA,Local,,,CISA
+minnetonkamn.gov,1,Minnetonka,,Minnesota,USA,Local,,,CISA
+missionhillsks.gov,1,Mission Hills,,Kansas,USA,Local,,,CISA
+missionks.org,1,mission,,kansas,USA,Local,,,GSA
+missiontexas.us,1,Mission,,Texas,USA,Local,,,Manual Review
+missoulacounty.us,0,,Missoula County,Montana,USA,County,,,Manual Review
+mitchellcounty.org,1,,mitchell county,North Carolina,USA,County,,,GSA
+mn.gov,1,,,Minnesota,USA,State,,,CISA
+mncourts.gov,1,,,Minnesota,USA,State,,,CISA
+mo.gov,0,,,Missouri,USA,State,,,CISA
+moline.il.us,1,moline,,illinois,USA,Local,,,GSA
+mondovi.com,1,mondovi,,wisconsin,USA,Local,,,GSA
+monocounty.ca.gov,1,,Mono County,California,USA,County,,,Manual Review
+monroecounty-fl.gov,1,,monroe county,Florida,USA,County,,,CISA
+monroecounty.gov,1,,monroe county,New York,USA,County,,,CISA
+monroecountypa.gov,1,,monroe county,Pennsylvania,USA,County,,,CISA
+monroemi.gov,1,Monroe,,Michigan,USA,Local,,,CISA
+montcalm.us,1,,Montcalm County,Michigan,USA,County,,,Manual Review
+montcopa.org,1,,montgomery county,Pennsylvania,USA,County,,,GSA
+montereycountyelections.us,1,,Monterey County,California,USA,County,,,Manual Review
+montgomery.boe.ohio.gov,0,,Montgomery County,Ohio,USA,County,,,Manual Review
+montgomeryco.com,1,,montgomery county,Illinois,USA,County,,,GSA
+montgomerycounty.in.gov,1,,Montgomery County,Indiana,USA,County,,,Manual Review
+montgomerycountymd.gov,0,,montgomery county,Maryland,USA,County,,,CISA
+montourco.org,1,,montour county,Pennsylvania,USA,County,,,GSA
+montpelier-vt.org,0,montpelier,,vermont,USA,Local,,,GSA
+montva.com,1,,montgomery county,Virginia,USA,County,,,GSA
+moolenaar.house.gov,1,,,Michigan,,rep,,2,Manual Review
+moorecountync.gov,1,,moore county,North Carolina,USA,County,,,CISA
+morgancounty.colorado.gov,1,,Morgan County,Colorado,USA,County,,,Manual Review
+morgancountyga.gov,1,,morgan county,Georgia,USA,County,,,CISA
+morriscountynj.gov,0,,morris county,New Jersey,USA,County,,,CISA
+ms.gov,0,,,Mississippi,USA,State,,,CISA
+msweb03.co.wake.nc.us,1,,Wake County,North Carolina,USA,County,,,Manual Review
+mtpleasantwi.gov,1,Mount Pleasant,,Wisconsin,USA,Local,,,CISA
+multco.us,1,,multnomah county,Oregon,USA,County,,,GSA
+muni.org,1,municipality of anchorage,,alaska,USA,Local,,,GSA
+murphy.house.gov,1,,,North Carolina,USA,rep,,,Manual Review
+muscatinecountyiowa.gov,0,,muscatine county,Iowa,USA,County,,,CISA
+muskingumcountyoh.gov,0,,muskingum county,Ohio,USA,County,,,CISA
+mvd.newmexico.gov,1,,,New Mexico,USA,State,,,Manual Review
+mvic.sos.state.mi.us,1,,,Michigan,USA,State,,,Manual Review
+myboca.us,1,Boca Raton,,Florida,USA,Local,,,Manual Review
+myescambia.com,1,,escambia county,Florida,USA,County,,,GSA
+myflorida.com,1,,,Florida,USA,State,,,GSA
+myfloridahouse.gov,1,,,Florida,USA,State,,,CISA
+myharlingen.us,1,Harlingen,,Texas,USA,Local,,,Manual Review
+myinfo.alabamavotes.gov,0,,,Alabama,USA,State,,,Manual Review
+mymvd.iowadot.gov,0,,,Iowa,USA,State,,,Manual Review
+nadler.house.gov,1,,,New York,,rep,,12,Manual Review
+naperville.il.us,1,naperville,,illinois,USA,Local,,,GSA
+napolitano.house.gov,1,,,California,,rep,,31,Manual Review
+narragansettri.gov,1,Narragansett,,Rhode Island,USA,Local,,,CISA
+nashcountync.gov,1,,nash county,North Carolina,USA,County,,,CISA
+nashuanh.gov,1,Nashua,,New Hampshire,USA,Local,,,CISA
+nashville.gov,0,Nashville,,Tennessee,USA,Local,,,CISA
+nassaucountyny.gov,1,,nassau county,New York,USA,County,,,CISA
+natickma.gov,0,Natick,,Massachusetts,USA,Local,,,CISA
+nativefederation.org,1,,,Alaska,USA,Native,,,GSA
+navajocountyaz.gov,1,,navajo county,Arizona,USA,County,,,CISA
+nbtexas.org,1,new braunfels,,texas,USA,Local,,,GSA
+nc.gov,1,,,North Carolina,USA,State,,,CISA
+ncdhhs.gov,1,,,North Carolina,USA,State,,,CISA
+ncdot.gov,1,,,North Carolina,USA,State,,,CISA
+ncforestservice.gov,1,,,North Carolina,USA,State,,,CISA
+ncleg.gov,1,,,North Carolina,USA,State,,,CISA
+nconemap.gov,1,,,North Carolina,USA,State,,,CISA
+ncsbe.gov,1,,,North Carolina,USA,State,,,CISA
+ncworks.gov,1,,,North Carolina,USA,State,,,CISA
+ne.gov,1,,,Nebraska,USA,State,,,CISA
+nebraska.gov,1,,,Nebraska,USA,State,,,CISA
+nebraskalegislature.gov,1,,,Nebraska,USA,State,,,CISA
+nebraskamap.gov,1,,,Nebraska,USA,State,,,CISA
+needhamma.gov,0,Needham,,Massachusetts,USA,Local,,,CISA
+nelsoncounty-va.gov,1,,nelson county,Virginia,USA,County,,,CISA
+nevadacountyca.gov,1,,nevada county,California,USA,County,,,CISA
+newbedford-ma.gov,0,New Bedford,,Massachusetts,USA,Local,,,CISA
+newberlin.org,1,new berlin,,wisconsin,USA,Local,,,GSA
+newbostonnh.gov,1,New Boston,,New Hampshire,USA,Local,,,CISA
+newcastlewa.gov,1,Newcastle,,Washington,USA,Local,,,CISA
+newdurhamnh.us,1,new durham,,new hampshire,USA,Local,,,GSA
+newhanover-pa.org,1,new hanover township,,pennsylvania,USA,Local,,,GSA
+newhouse.house.gov,1,,,Washington,,rep,,4,Manual Review
+newlondon.nh.gov,1,New London,,New Hampshire,USA,Local,,,Manual Review
+newlondonwi.org,1,new london,,wisconsin,USA,Local,,,GSA
+newmilford.org,0,new milford,,connecticut,USA,Local,,,GSA
+newportbeachca.gov,1,Newport Beach,,California,USA,Local,,,CISA
+newportoregon.gov,1,Newport,,Oregon,USA,Local,,,CISA
+newton-nh.gov,1,Newton,,New Hampshire,USA,Local,,,CISA
+newtonma.gov,0,Newton,,Massachusetts,USA,Local,,,CISA
+newtools.cira.state.tx.us,1,,,Texas,USA,State,,,Manual Review
+newwindsor-ny.gov,1,New Windsor,,New York,USA,Local,,,CISA
+nh.gov,1,,,New Hampshire,USA,State,,,CISA
+niskayuna.org,1,niskayuna,,new york,USA,Local,,,GSA
+nj.gov,0,,,New Jersey,USA,State,,,CISA
+nmlegis.gov,1,,,New Mexico,USA,State,,,CISA
+nnva.gov,1,Newport News,,Virginia,USA,Local,,,CISA
+nola.gov,0,New Orleans,,Louisiana,USA,Local,,,CISA
+norcrossga.net,1,norcross,,georgia,USA,Local,,,GSA
+norfolk.gov,1,Norfolk,,Virginia,USA,Local,,,CISA
+north-fayette.com,1,north fayette township,,pennsylvania,USA,Local,,,GSA
+northamptoncounty.org,1,,northampton county,Pennsylvania,USA,County,,,GSA
+northbayvillage-fl.gov,1,North Bay Village,,Florida,USA,Local,,,CISA
+northbendwa.gov,1,North Bend,,Washington,USA,Local,,,CISA
+northbrook.il.us,1,Northbrook,,Illinois,USA,Local,,,Manual Review
+northfieldmn.gov,1,Northfield,,Minnesota,USA,Local,,,CISA
+northglenn.org,1,northglenn,,colorado,USA,Local,,,GSA
+northhampton-nh.gov,1,North Hampton,,New Hampshire,USA,Local,,,CISA
+northkingstown.org,1,north kingstown,,rhode island,USA,Local,,,GSA
+northprovidenceri.gov,1,North Providence,,Rhode Island,USA,Local,,,CISA
+norwichct.org,0,norwich,,connecticut,USA,Local,,,GSA
+nsmithfieldri.org,1,north smithfield,,rhode island,USA,Local,,,GSA
+nv.gov,1,,,Nevada,USA,State,,,CISA
+nvsos.gov,1,,,Nevada,USA,State,,,CISA
+nvtpa.com,1,north versailles township,,pennsylvania,USA,Local,,,GSA
+ny.gov,1,,,New York,USA,State,,,CISA
+nyc.gov,1,Brooklyn,,New York,USA,Local,,,CISA
+nysenate.gov,1,,,New York,USA,State,,,CISA
+oak-brook.org,1,oak brook,,illinois,USA,Local,,,GSA
+oak-park.us,1,Oak Park,,Illinois,USA,Local,,,Manual Review
+oakcreekwi.gov,1,Oak Creek,,Wisconsin,USA,Local,,,CISA
+oakgov.com,1,,oakland county,Michigan,USA,County,,,GSA
+oaklandtownship.org,1,oakland township,,michigan,USA,Local,,,GSA
+oakridgenc.com,1,oak ridge,,north carolina,USA,Local,,,GSA
+ocalafl.org,1,ocala,,florida,USA,Local,,,GSA
+oceana.mi.us,1,,Oceana County,Michigan,USA,County,,,Manual Review
+oceancitymd.gov,0,Ocean City,,Maryland,USA,Local,,,CISA
+ocgov.net,1,,oneida county,New York,USA,County,,,GSA
+ocmi.us,1,Mackinac Island,,Michigan,USA,Local,,,Manual Review
+ocoee.org,1,ocoee,,florida,USA,Local,,,GSA
+oconeecounty.com,1,,oconee county,Georgia,USA,County,,,GSA
+oconomowoc-wi.gov,1,Oconomowoc,,Wisconsin,USA,Local,,,CISA
+ocpf.us,0,,,Massachusetts,USA,State,,,Manual Review
+ocvote.gov,1,,Orange County,California,USA,County,,,CISA
+ohalleran.house.gov,1,,,Arizona,,rep,,1,Manual Review
+ohara.pa.us,1,o'hara township,,pennsylvania,USA,Local,,,GSA
+ohio.gov,0,,,Ohio,USA,State,,,CISA
+ohiohouse.gov,0,,,Ohio,USA,State,,,CISA
+ohiosenate.gov,0,,,Ohio,USA,State,,,CISA
+ohiosos.gov,0,,,Ohio,USA,State,,,CISA
+okanogancounty.org,1,,okanogan county,Washington,USA,County,,,GSA
+okhouse.gov,0,,,Oklahoma,USA,State,,,CISA
+oklahoma.gov,0,,,Oklahoma,USA,State,,,CISA
+oksenate.gov,0,,,Oklahoma,USA,State,,,CISA
+olmstedcounty.gov,1,,olmsted county,Minnesota,USA,County,,,CISA
+omar.house.gov,1,,,Minnesota,,rep,,5,Manual Review
+ongov.net,1,,onondaga county,New York,USA,County,,,GSA
+onslowcountync.gov,1,,onslow county,North Carolina,USA,County,,,CISA
+ontariocountyny.gov,1,,ontario county,New York,USA,County,,,CISA
+opalockafl.gov,1,Opalocka,,Florida,USA,Local,,,CISA
+opkansas.org,1,overland park,,kansas,USA,Local,,,GSA
+orangecountync.gov,1,,orange county,North Carolina,USA,County,,,CISA
+orangecountyva.gov,1,,orange county,Virginia,USA,County,,,CISA
+orcity.org,1,oregon city,,oregon,USA,Local,,,GSA
+oregon.gov,1,,,Oregon,USA,State,,,CISA
+oregonlegislature.gov,1,,,Oregon,USA,State,,,CISA
+oregonvotes.gov,1,,,Oregon,USA,State,,,CISA
+orlando.gov,1,Orlando,,Florida,USA,Local,,,CISA
+orono.org,1,orono,,maine,USA,Local,,,GSA
+orovalleyaz.gov,1,Oro Valley,,Arizona,USA,Local,,,CISA
+osawatomieks.org,1,osawatomie,,kansas,USA,Local,,,GSA
+osceola-county.org,1,,osceola county,Michigan,USA,County,,,GSA
+osceola.org,1,,osceola county,Florida,USA,County,,,GSA
+otsegocounty.com,1,,otsego county,New York,USA,County,,,GSA
+otsegocountymi.gov,1,,otsego county,Michigan,USA,County,,,CISA
+ouraycountyco.gov,1,,ouray county,Colorado,USA,County,,,CISA
+outagamie.org,1,,outagamie county,Wisconsin,USA,County,,,GSA
+pa.gov,1,,,Pennsylvania,USA,State,,,CISA
+pacourts.us,1,,,Pennsylvania,USA,State,,,GSA
+pagecounty.virginia.gov,1,,Page County,Virginia,USA,County,,,Manual Review
+palatine.il.us,1,Palatine,,Illinois,USA,Local,,,Manual Review
+palmspringsca.gov,1,Palm Springs,,California,USA,Local,,,CISA
+pappas.house.gov,1,,,New Hampshire,,rep,,1,Manual Review
+paradisevalleyaz.gov,1,Paradise Valley,,Arizona,USA,Local,,,CISA
+parkco.us,1,,park county,Colorado,USA,County,,,GSA
+parkvillemo.gov,0,Parkville,,Missouri,USA,Local,,,CISA
+parlier.ca.us,1,Parlier,,California,USA,Local,,,Manual Review
+pascovotes.gov,1,,pasco county,Florida,USA,County,,,CISA
+pasen.gov,1,,,Pennsylvania,USA,State,,,CISA
+passaiccountynj.org,0,,passaic county,New Jersey,USA,County,,,GSA
+paulding.gov,1,,paulding county,Georgia,USA,County,,,CISA
+pawneecountykansas.com,1,,pawnee county,Kansas,USA,County,,,GSA
+pawtucketri.com,1,pawtucket,,rhode island,USA,Local,,,GSA
+peachtree-city.org,1,peach tree city,,georgia,USA,Local,,,GSA
+pelosi.house.gov,1,,,California,,rep,,11,Manual Review
+pence.house.gov,1,,,Indiana,,rep,,6,Manual Review
+pendercountync.gov,1,,pender county,North Carolina,USA,County,,,CISA
+pendoreilleco.org,1,,pend oreille county,Washington,USA,County,,,GSA
+peoriaaz.gov,1,Peoria,,Arizona,USA,Local,,,CISA
+peoriacounty.gov,1,,peoria county,Illinois,USA,County,,,CISA
+peoriaelections.gov,1,,peoria county,Illinois,USA,County,,,CISA
+perlmutter.house.gov,1,,,Colorado,,rep,,7,Manual Review
+perry.house.gov,1,,,Pennsylvania,,rep,,10,Manual Review
+perrycounty.in.gov,1,,Perry County,Indiana,USA,County,,,Manual Review
+personcountync.gov,1,,person county,North Carolina,USA,County,,,CISA
+peterboroughnh.gov,1,Peterborough,,New Hampshire,USA,Local,,,CISA
+phila.gov,1,Philadelphia,,Pennsylvania,USA,Local,,,CISA
+phillipscounty.colorado.gov,1,,Phillips County,Colorado,USA,County,,,Manual Review
+phoenix.gov,1,Phoenix,,Arizona,USA,Local,,,CISA
+piercecountywa.gov,1,,pierce county,Washington,USA,County,,,CISA
+pikepa.org,1,,pike county,Pennsylvania,USA,County,,,GSA
+pima.gov,1,,pima county,Arizona,USA,County,,,CISA
+pinalcountyaz.gov,1,,pinal county,Arizona,USA,County,,,CISA
+pinellascounty.org,1,,pinellas county,Florida,USA,County,,,GSA
+pingree.house.gov,1,,,Maine,,rep,,1,Manual Review
+pittcountync.gov,1,,pitt county,North Carolina,USA,County,,,CISA
+pittsburghpa.gov,1,Pittsburgh,,Pennsylvania,USA,Local,,,CISA
+placercountyelections.gov,1,,placer county,California,USA,County,,,CISA
+plainvillect.com,0,plainville,,connecticut,USA,Local,,,GSA
+plaistow.com,1,plaistow,,new hampshire,USA,Local,,,GSA
+plattevillegov.org,1,platteville,,colorado,USA,Local,,,GSA
+ploverwi.gov,1,Plover,,Wisconsin,USA,Local,,,CISA
+plumboro.com,1,plum borough,,pennsylvania,USA,Local,,,GSA
+plymouthmn.gov,1,Plymouth,,Minnesota,USA,Local,,,CISA
+pocan.house.gov,1,,,Wisconsin,,rep,,2,Manual Review
+polandtownoffice.org,1,poland,,maine,USA,Local,,,GSA
+polkcountyiowa.gov,0,,polk county,Iowa,USA,County,,,CISA
+polkelections.gov,1,,polk county,Florida,USA,County,,,CISA
+port-orange.org,1,port orange,,florida,USA,Local,,,GSA
+portagemi.gov,1,Portage,,Michigan,USA,Local,,,CISA
+porterco.org,1,,porter county,Indiana,USA,County,,,GSA
+portland.gov,1,Portland,,Oregon,USA,Local,,,CISA
+portlandmaine.gov,1,Portland,,Maine,USA,Local,,,CISA
+portlandoregon.gov,1,Portland,,Oregon,USA,Local,,,CISA
+portman.senate.gov,0,,,Ohio,,sen,,,Manual Review
+portsmouthva.gov,1,Portsmouth,,Virginia,USA,Local,,,CISA
+pottcounty.org,1,,pottawatomie county,Kansas,USA,County,,,GSA
+ppines.com,1,pembroke pines,,florida,USA,Local,,,GSA
+prescott-az.gov,1,Prescott,,Arizona,USA,Local,,,CISA
+prescottvalley-az.gov,1,Prescott Valley,,Arizona,USA,Local,,,CISA
+price.house.gov,1,,,North Carolina,,rep,,4,Manual Review
+princegeorgecountyva.gov,1,,prince county,Virginia,USA,County,,,CISA
+princegeorgescountymd.gov,0,,prince george's county,Maryland,USA,County,,,CISA
+providenceri.gov,1,Providence,,Rhode Island,USA,Local,,,CISA
+prowerscounty.net,1,,prowers county,Colorado,USA,County,,,GSA
+queencreekaz.gov,1,Queen Creek,,Arizona,USA,Local,,,CISA
+quigley.house.gov,1,,,Illinois,,rep,,5,Manual Review
+raleighnc.gov,1,Raleigh,,North Carolina,USA,Local,,,CISA
+ramseycounty.us,1,,Ramsey County,Minnesota,USA,County,,,Manual Review
+randallcounty.gov,1,,randall county,Texas,USA,County,,,CISA
+randolphcounty.us,1,,Randolph County,North Carolina,USA,County,,,Manual Review
+randolphcountync.gov,1,,randolph county,North Carolina,USA,County,,,CISA
+raphotownship.com,1,rapho township,,pennsylvania,USA,Local,,,GSA
+raymondvilletx.us,1,Raymondville,,Texas,USA,Local,,,Manual Review
+red-wing.org,1,red wing,,minnesota,USA,Local,,,GSA
+redistricting.state.pa.us,1,,,Pennsylvania,USA,State,,,Manual Review
+registertovoteflorida.gov,1,,,Florida,USA,State,,,CISA
+renogov.org,1,,reno county,Kansas,USA,County,,,GSA
+rensco.com,1,,rensselaer county,New York,USA,County,,,GSA
+revere.org,0,revere,,massachusetts,USA,Local,,,GSA
+rfcity.org,1,river falls,,wisconsin,USA,Local,,,GSA
+ri.gov,1,,,Rhode Island,USA,State,,,CISA
+richmondhill-ga.gov,1,Richmond Hill,,Georgia,USA,Local,,,CISA
+richmondnc.com,1,richmond,,north carolina,USA,Local,,,GSA
+richmondri.com,1,richmond,,rhode island,USA,Local,,,GSA
+ridgecrest-ca.gov,1,Ridgecrest,,California,USA,Local,,,CISA
+rigov.org,1,rock island,,illinois,USA,Local,,,GSA
+rilegislature.gov,1,,,Rhode Island,USA,State,,,CISA
+rileycountyks.gov,1,,riley county,Kansas,USA,County,,,CISA
+riversideca.gov,1,Riverside,,California,USA,Local,,,CISA
+robinkelly.house.gov,1,,,Illinois,,rep,,2,Manual Review
+rochestermn.gov,1,Rochester,,Minnesota,USA,Local,,,CISA
+rockdalecountyga.gov,1,,rockdale county,Georgia,USA,County,,,CISA
+rockfordil.gov,1,Rockford,,Illinois,USA,Local,,,CISA
+rockinghamcountync.gov,1,,rockingham county,North Carolina,USA,County,,,CISA
+rockinghamcountyva.gov,1,,rockingham county,Virginia,USA,County,,,CISA
+rockislandcounty.org,1,,rock island county,Illinois,USA,County,,,GSA
+rocklandgov.com,1,,rockland county,New York,USA,County,,,GSA
+rodneydavis.house.gov,1,,,Illinois,,rep,,13,Manual Review
+romeoville.org,1,romeoville,,illinois,USA,Local,,,GSA
+romi.gov,1,Royal Oak,,Michigan,USA,Local,,,CISA
+rooseveltcounty.com,1,,roosevelt county,New Mexico,USA,County,,,GSA
+rosemountmn.gov,1,Rosemount,,Minnesota,USA,Local,,,CISA
+rosenet.org,0,borough of madison,,new jersey,USA,Local,,,GSA
+ross.pa.us,1,ross township,,pennsylvania,USA,Local,,,GSA
+roswell-nm.gov,1,Roswell,,New Mexico,USA,Local,,,CISA
+roswellgov.com,1,roswell,,georgia,USA,Local,,,GSA
+rouzer.house.gov,1,,,North Carolina,,rep,,7,Manual Review
+rowancountync.gov,1,,rowan county,North Carolina,USA,County,,,CISA
+roybal-allard.house.gov,1,,,California,,rep,,40,Manual Review
+rpvca.gov,1,Rancho Palos Verdes,,California,USA,Local,,,CISA
+rrnm.gov,1,Rio Rancho,,New Mexico,USA,Local,,,CISA
+rubengallego.house.gov,1,,,Arizona,,rep,,3,Manual Review
+rubio.senate.gov,1,,,Florida,,sen,,,Manual Review
+ruidoso-nm.gov,1,Ruidoso,,New Mexico,USA,Local,,,CISA
+ruiz.house.gov,1,,,California,,rep,,25,Manual Review
+rumneynh.org,1,rumney,,new hampshire,USA,Local,,,GSA
+rush.house.gov,1,,,Illinois,,rep,,1,Manual Review
+rutherford.house.gov,1,,,Florida,,rep,,5,Manual Review
+rutherfordcountync.gov,1,,rutherford county,North Carolina,USA,County,,,CISA
+sacomaine.org,1,saco,,maine,USA,Local,,,GSA
+saginawcounty.com,1,,saginaw county,Michigan,USA,County,,,GSA
+sahuaritaaz.gov,1,Sahuarita,,Arizona,USA,Local,,,CISA
+saline.org,1,,saline county,Kansas,USA,County,,,GSA
+sanantonio.gov,1,San Antonio,,Texas,USA,Local,,,CISA
+sandiegocounty.gov,1,,san diego county,California,USA,County,,,CISA
+sandimasca.gov,1,San Dimas,,California,USA,Local,,,CISA
+sandovalcountynm.gov,1,,sandoval county,New Mexico,USA,County,,,CISA
+sandown.us,1,sandown,,new hampshire,USA,Local,,,GSA
+sandyspringsga.gov,1,Sandy Springs,,Georgia,USA,Local,,,CISA
+sanfordmaine.org,1,sanford,,maine,USA,Local,,,GSA
+sanjoseca.gov,1,San Jose,,California,USA,Local,,,CISA
+sanjuanco.com,1,,san juan county,Washington,USA,County,,,GSA
+sanmarcostx.gov,1,San Marcos,,Texas,USA,Local,,,CISA
+sanmiguelcountyco.gov,1,,san miguel county,Colorado,USA,County,,,CISA
+santabarbaraca.gov,1,Santa Barbara,,California,USA,Local,,,CISA
+santaclaraca.gov,1,Santa Clara,,California,USA,Local,,,CISA
+santacruzcountyaz.gov,1,,santa cruz county,Arizona,USA,County,,,CISA
+santafecountynm.gov,1,,santa fe county,New Mexico,USA,County,,,CISA
+santamonica.gov,1,Santa Monica,,California,USA,Local,,,CISA
+sarasotafl.gov,1,Sarasota,,Florida,USA,Local,,,CISA
+sarasotavotes.gov,1,,sarasota county,Florida,USA,County,,,CISA
+saratogacountyny.gov,1,,saratoga county,New York,USA,County,,,CISA
+sarpy.gov,1,,sarpy county,Nebraska,USA,County,,,CISA
+saunderscounty.ne.gov,1,,Saunders County,Nebraska,USA,County,,,Manual Review
+sausalito.gov,1,Sausalito,,California,USA,Local,,,CISA
+sawyercountygov.org,1,,sawyer county,Wisconsin,USA,County,,,GSA
+sbcounty.gov,1,,san bernardino county,California,USA,County,,,CISA
+sbcvote.us,1,,Santa Barbara County,California,USA,County,,,Manual Review
+sccwi.gov,1,,st. croix county,Wisconsin,USA,County,,,CISA
+schakowsky.house.gov,1,,,Illinois,,rep,,9,Manual Review
+schneider.house.gov,1,,,Illinois,,rep,,10,Manual Review
+schohariecounty-ny.gov,1,,schoharie county,New York,USA,County,,,CISA
+schuylercounty.us,1,,Schuyler County,New York,USA,County,,,Manual Review
+schweikert.house.gov,1,,,Arizona,,rep,,1,Manual Review
+scituateri.gov,1,Scituate,,Rhode Island,USA,Local,,,CISA
+scnylegislature.us,1,,Sullivan County,New York,USA,County,,,Manual Review
+scotlandcounty.org,1,,scotland county,North Carolina,USA,County,,,GSA
+scottcountyiowa.gov,0,,scott county,Iowa,USA,County,,,CISA
+scottcountymn.gov,1,,scott county,Minnesota,USA,County,,,CISA
+scottsdaleaz.gov,1,Scottsdale,,Arizona,USA,Local,,,CISA
+scstatehouse.gov,0,,,South Carolina,USA,State,,,CISA
+scvotes.gov,0,,,South Carolina,USA,State,,,CISA
+sdsos.gov,0,,,South Dakota,USA,State,,,CISA
+seanmaloney.house.gov,1,,,New York,,rep,,18,Manual Review
+seattle.gov,1,Seattle,,Washington,USA,Local,,,CISA
+sec.state.ma.us,0,,,Massachusetts,USA,State,,,Manual Review
+secure.sos.state.or.us,1,,,Oregon,USA,State,,,Manual Review
+sedgwickcounty.org,1,,sedgwick county,Kansas,USA,County,,,GSA
+servicearizona.com,1,,,Arizona,USA,State,,,GSA
+sewardcountyks.org,1,,seward county,Kansas,USA,County,,,GSA
+shafter.com,1,shafter,,california,USA,Local,,,GSA
+shakopeemn.gov,1,Shakopee,,Minnesota,USA,Local,,,CISA
+shaler.org,1,shaler township,,pennsylvania,USA,Local,,,GSA
+sheboygancounty.com,1,,sheboygan county,Wisconsin,USA,County,,,GSA
+sheboyganwi.gov,1,Sheboygan,,Wisconsin,USA,Local,,,CISA
+shelbycountytn.gov,0,,shelby county,Tennessee,USA,County,,,CISA
+shenandoahcountyva.us,1,,shenandoah county,Virginia,USA,County,,,GSA
+sherman.house.gov,1,,,California,,rep,,32,Manual Review
+sherwoodoregon.gov,1,Sherwood,,Oregon,USA,Local,,,CISA
+shiawassee.net,1,shiawassee,,michigan,USA,Local,,,GSA
+shorelinewa.gov,1,Shoreline,,Washington,USA,Local,,,CISA
+shoreviewmn.gov,1,Shoreview,,Minnesota,USA,Local,,,CISA
+shrewsburyma.gov,0,Shrewsbury,,Massachusetts,USA,Local,,,CISA
+sibfl.net,1,sunny isles beach,,florida,USA,Local,,,GSA
+silverton.or.us,1,silverton,,oregon,USA,Local,,,GSA
+sjaz.us,1,st. johns,,arizona,USA,Local,,,GSA
+sjcounty.net,1,,san juan county,New Mexico,USA,County,,,GSA
+sjgov.org,1,,san joaquin county,California,USA,County,,,GSA
+skagitcounty.net,1,,skagit county,Washington,USA,County,,,GSA
+slocity.org,1,san luis obispo,,california,USA,Local,,,GSA
+slocounty.ca.gov,1,,San Luis Obispo County,California,USA,County,,,Manual Review
+slotkin.house.gov,1,,,Michigan,,rep,,7,Manual Review
+smithfieldri.com,1,smithfield,,rhode island,USA,Local,,,GSA
+smucker.house.gov,1,,,Pennsylvania,,rep,,11,Manual Review
+snco.us,1,,shawnee county,Kansas,USA,County,,,GSA
+snohomishcountywa.gov,1,,snohomish county,Washington,USA,County,,,CISA
+snoqualmiewa.gov,1,Snoqualmie,,Washington,USA,Local,,,CISA
+snowflakeaz.gov,1,Snowflake,,Arizona,USA,Local,,,CISA
+socorronm.gov,1,Socorro,,New Mexico,USA,Local,,,CISA
+soe.dos.state.fl.us,1,,,Florida,USA,State,,,Manual Review
+somervillema.gov,0,Somerville,,Massachusetts,USA,Local,,,CISA
+sonomacounty.ca.gov,1,,Sonoma County,California,USA,County,,,Manual Review
+sos.alabama.gov,0,,,Alabama,USA,State,,,CISA
+sos.arkansas.gov,0,,,Arkansas,USA,State,,,CISA
+sos.state.nm.us,1,,,New Mexico,USA,State,,,Manual Review
+sos.state.oh.us,0,,,Ohio,USA,State,,,Manual Review
+sos.state.tx.us,1,,,Texas,USA,State,,,Manual Review
+sos.vermont.gov,0,,,Vermont,USA,State,,,CISA
+sos.wyo.gov,0,,,Wyoming,USA,State,,,CISA
+sosmt.gov,0,,,Montana,USA,State,,,CISA
+soto.house.gov,1,,,Florida,,rep,,9,Manual Review
+southbury-ct.org,0,southbury,,connecticut,USA,Local,,,GSA
+southkingstownri.com,1,south kingstown,,rhode island,USA,Local,,,GSA
+southmilwaukee.gov,1,South Milwaukee,,Wisconsin,USA,Local,,,CISA
+southpasadenaca.gov,1,South Pasadena,,California,USA,Local,,,CISA
+southstpaul.org,1,south st. paul,,minnesota,USA,Local,,,GSA
+spokanecounty.org,1,,spokane county,Washington,USA,County,,,GSA
+springdalewi.gov,1,Mt Horeb,,Wisconsin,USA,Local,,,CISA
+springfieldmontco.org,1,springfield township,,pennsylvania,USA,Local,,,GSA
+stamfordct.gov,0,Stamford,,Connecticut,USA,Local,,,CISA
+standish.org,1,standish,,maine,USA,Local,,,GSA
+stansbury.house.gov,1,,,New Mexico,,rep,,1,Manual Review
+state.co.us,1,,,Colorado,USA,State,,,GSA
+state.mn.us,1,,,Minnesota,USA,State,,,GSA
+state.nj.us,0,,,New Jersey,USA,State,,,GSA
+staytonoregon.gov,1,Stayton,,Oregon,USA,Local,,,CISA
+stearnscountymn.gov,1,,stearns county,Minnesota,USA,County,,,CISA
+steelecountymn.gov,1,,steele county,Minnesota,USA,County,,,CISA
+steil.house.gov,1,,,Wisconsin,,rep,,1,Manual Review
+stephensoncountyil.gov,1,,stephenson county,Illinois,USA,County,,,CISA
+steube.house.gov,1,,,Florida,,rep,,17,Manual Review
+steubencountyny.gov,1,,steuben county,New York,USA,County,,,CISA
+stevenspoint.com,1,stevens point,,wisconsin,USA,Local,,,GSA
+stillwatertownshipmn.gov,1,Stillwater Township,,Minnesota,USA,Local,,,CISA
+stjosephcountymi.org,1,,st joseph county,Michigan,USA,County,,,GSA
+stlouis-mo.gov,0,St. Louis,,Missouri,USA,Local,,,CISA
+stlouispark.org,1,st. louis park,,minnesota,USA,Local,,,GSA
+stocktonca.gov,1,Stockton,,California,USA,Local,,,CISA
+stonemountaincity.org,1,stone mountain,,georgia,USA,Local,,,GSA
+stonington-ct.gov,0,Stonington,,Connecticut,USA,Local,,,CISA
+storycountyiowa.gov,0,,story county,Iowa,USA,County,,,CISA
+stpaul.gov,1,Saint Paul,,Minnesota,USA,Local,,,CISA
+stpete.org,1,st. petersburg,,florida,USA,Local,,,GSA
+stpetebeach.org,1,st. pete beach,,florida,USA,Local,,,GSA
+strathamnh.gov,1,Stratham,,New Hampshire,USA,Local,,,CISA
+streamwood.org,1,streamwood,,illinois,USA,Local,,,GSA
+suffolkva.us,1,suffolk,,virginia,USA,Local,,,GSA
+sugarlandtx.gov,1,Sugar Land,,Texas,USA,Local,,,CISA
+sullivancountypa.gov,1,,sullivan county,Pennsylvania,USA,County,,,CISA
+sullivanny.us,1,,Sullivan County,New York,USA,County,,,Manual Review
+summitcountyco.gov,1,,summit county,Colorado,USA,County,,,CISA
+summittwp.com,1,summit township,,michigan,USA,Local,,,GSA
+summitvillage.org,1,summit,,wisconsin,USA,Local,,,GSA
+sunrisefl.gov,1,Sunrise,,Florida,USA,Local,,,CISA
+suozzi.house.gov,1,,,New York,,rep,,3,Manual Review
+surpriseaz.gov,1,Surprise,,Arizona,USA,Local,,,CISA
+surrycountyva.gov,1,,surry county,Virginia,USA,County,,,CISA
+susielee.house.gov,1,,,Nevada,,rep,,3,Manual Review
+sussex.nj.us,0,,sussex county,New Jersey,USA,County,,,GSA
+sussexcountyva.gov,1,,sussex county,Virginia,USA,County,,,CISA
+sweethomeor.gov,1,Sweet Home,,Oregon,USA,Local,,,CISA
+swfwmd.state.fl.us,1,,,Florida,USA,State,,,Manual Review
+swissvaleborough.com,1,swissvale borough,,pennsylvania,USA,Local,,,GSA
+syrgov.net,1,syracuse,,new york,USA,Local,,,GSA
+tempe.gov,1,Tempe,,Arizona,USA,Local,,,CISA
+tetonwyo.org,0,,teton county,Wyoming,USA,County,,,GSA
+texas.gov,1,,,Texas,USA,State,,,CISA
+texasattorneygeneral.gov,1,,,Texas,USA,State,,,CISA
+thomascountyboc.org,1,,thomas county,Georgia,USA,County,,,GSA
+thompson.house.gov,1,,,Pennsylvania,,rep,,15,Manual Review
+thomson-mcduffie.gov,1,,mcduffie county,Georgia,USA,County,,,CISA
+thurstoncountywa.gov,1,,thurston county,Washington,USA,County,,,CISA
+tigard-or.gov,1,Tigard,,Oregon,USA,Local,,,CISA
+tinleypark.org,1,tinley park,,illinois,USA,Local,,,GSA
+tippecanoe.in.gov,1,,Tippecanoe County,Indiana,USA,County,,,Manual Review
+titus.house.gov,1,,,Nevada,,rep,,1,Manual Review
+tn.gov,0,,,Tennessee,USA,State,,,CISA
+toledo.oh.gov,0,Toledo,,Ohio,USA,Local,,,Manual Review
+tomahwi.gov,1,Tomah,,Wisconsin,USA,Local,,,CISA
+tompkinscountyny.gov,1,,tompkins county,New York,USA,County,,,CISA
+tonko.house.gov,1,,,New York,,rep,,20,Manual Review
+toombscountyga.gov,1,,toombs county,Georgia,USA,County,,,CISA
+topsfield-ma.gov,0,Topsfield,,Massachusetts,USA,Local,,,CISA
+topshammaine.com,1,topsham,,maine,USA,Local,,,GSA
+torranceca.gov,1,Torrance,,California,USA,Local,,,CISA
+towerlakes-il.gov,1,Tower Lakes,,Illinois,USA,Local,,,CISA
+town.billerica.ma.us,0,Billerica,,Massachusetts,USA,Local,,,Manual Review
+town.canton.ma.us,0,Canton,,Massachusetts,USA,Local,,,Manual Review
+town.rye.nh.us,1,rye,,new hampshire,USA,Local,,,GSA
+townhall.westwood.ma.us,0,Westwood,,Massachusetts,USA,Local,,,Manual Review
+townofbelleair.com,1,belleair,,florida,USA,Local,,,GSA
+townofbeloitwi.gov,1,Beloit,,Wisconsin,USA,Local,,,CISA
+townofbrookfield.com,1,brookfield,,wisconsin,USA,Local,,,GSA
+townofbuchanan.org,1,buchanan,,wisconsin,USA,Local,,,GSA
+townofcary.org,1,cary,,north carolina,USA,Local,,,GSA
+townofchelmsford.us,0,chelmsford,,massachusetts,USA,Local,,,GSA
+townofeagle.org,1,eagle,,colorado,USA,Local,,,GSA
+townoffoster.com,1,foster,,rhode island,USA,Local,,,GSA
+townofhudson.org,0,hudson,,massachusetts,USA,Local,,,GSA
+townofhull.us,1,Hull,,Wisconsin,USA,Local,,,Manual Review
+townofjohnstonri.com,1,johnston,,rhode island,USA,Local,,,GSA
+townoflyndon.com,1,lyndon,,wisconsin,USA,Local,,,GSA
+townofmontville.org,0,montville,,connecticut,USA,Local,,,GSA
+townofnorridgewock.com,1,norridgewock,,maine,USA,Local,,,GSA
+townofnorwichny.gov,1,Norwich,,New York,USA,Local,,,CISA
+townofpalmbeach.com,1,palm beach,,florida,USA,Local,,,GSA
+townofpolk-wi.gov,1,Slinger,,Wisconsin,USA,Local,,,CISA
+townofsilvercity.org,1,silver city,,new mexico,USA,Local,,,GSA
+townofsunprairie.info,1,sun prairie,,wisconsin,USA,Local,,,GSA
+townofwappingerny.gov,1,Wappingers Falls,,New York,USA,Local,,,CISA
+townofwarren-ri.gov,1,Warren,,Rhode Island,USA,Local,,,CISA
+townofwellington.com,1,wellington,,colorado,USA,Local,,,GSA
+townofwestpoint.us,1,west point,,wisconsin,USA,Local,,,GSA
+townofwestport.org,1,westport,,wisconsin,USA,Local,,,GSA
+township.empire.mn.us,1,empire township,,minnesota,USA,Local,,,GSA
+townshipofconcord.com,1,concord township,,pennsylvania,USA,Local,,,GSA
+townwilson.com,1,wilson,,wisconsin,USA,Local,,,GSA
+traviscountytx.gov,1,,travis county,Texas,USA,County,,,CISA
+trentonnj.org,0,trenton,,new jersey,USA,Local,,,GSA
+troupcountyga.gov,1,,troup county,Georgia,USA,County,,,CISA
+tualatinoregon.gov,1,Tualatin,,Oregon,USA,Local,,,CISA
+tuckerga.gov,1,Tucker,,Georgia,USA,Local,,,CISA
+tucsonaz.gov,1,Tucson,,Arizona,USA,Local,,,CISA
+tuolumnecounty.ca.gov,1,,Tuolumne County,California,USA,County,,,Manual Review
+twpusc.org,1,upper st. clair township,,pennsylvania,USA,Local,,,GSA
+txdot.gov,1,,,Texas,USA,State,,,CISA
+ulstercountyny.gov,1,,ulster county,New York,USA,County,,,CISA
+union-county.org,1,,union county,Oregon,USA,County,,,GSA
+unioncountyga.gov,1,,union county,Georgia,USA,County,,,CISA
+uplandca.gov,1,Upland,,California,USA,Local,,,CISA
+upperdublin.net,1,upper dublin township,,pennsylvania,USA,Local,,,GSA
+upperuwchlan-pa.gov,1,Chester Springs,,Pennsylvania,USA,Local,,,CISA
+utah.gov,0,,,Utah,USA,State,,,CISA
+utahcounty.gov,0,,utah county,Utah,USA,County,,,CISA
+vah.com,1,arlington heights,,illinois,USA,Local,,,GSA
+valverdecounty.texas.gov,1,,Val Verde County,Texas,USA,County,,,Manual Review
+vancecounty.org,1,,vance county,North Carolina,USA,County,,,GSA
+vargas.house.gov,1,,,California,,rep,,52,Manual Review
+vbgov.com,1,virginia beach,,virginia,USA,Local,,,GSA
+veasey.house.gov,1,,,Texas,,rep,,33,Manual Review
+vi.deforest.wi.us,1,deforest,,wisconsin,USA,Local,,,GSA
+victorvilleca.gov,1,Victorville,,California,USA,Local,,,CISA
+vilascountywi.gov,1,,vilas county,Wisconsin,USA,County,,,CISA
+village.grafton.wi.us,1,grafton,,wisconsin,USA,Local,,,GSA
+villageofworth.com,1,worth,,illinois,USA,Local,,,GSA
+vip.sos.nd.gov,0,,,North Dakota,USA,State,,,CISA
+virginia.gov,1,,,Virginia,USA,State,,,CISA
+virginiageneralassembly.gov,1,,,Virginia,USA,State,,,CISA
+vniles.com,1,niles,,illinois,USA,Local,,,GSA
+volusia.org,1,,volusia county,Florida,USA,County,,,GSA
+vote.arlingtonva.gov,1,,arlington county,Virginia,USA,County,,,CISA
+vote.minneapolismn.gov,1,Minneapolis,,Minnesota,USA,Local,,,CISA
+vote.warrencountyohio.gov,0,,warren county,Ohio,USA,County,,,CISA
+votealachua.gov,1,,alachua county,Florida,USA,County,,,CISA
+votebrevard.gov,1,,brevard county,Florida,USA,County,,,CISA
+votecalhounfl.gov,1,,Calhoun County,Florida,USA,County,,,CISA
+votecitrus.gov,1,,citrus county,Florida,USA,County,,,CISA
+voteclaycountymo.gov,0,,clay county,Missouri,USA,County,,,CISA
+votedenton.gov,1,,denton county,Texas,USA,County,,,CISA
+votehamiltoncountyohio.gov,0,,hamilton county,Ohio,USA,County,,,CISA
+votehillsborough.gov,1,,hillsborough county,Florida,USA,County,,,CISA
+voteidaho.gov,0,,,Idaho,USA,State,,,CISA
+voteindianriver.gov,1,,Indian River County,Florida,USA,County,,,CISA
+votelarock.us,1,,,Virginia,USA,State,,,Manual Review
+votelevy.gov,1,,levy county,Florida,USA,County,,,CISA
+votemarion.gov,1,,marion county,Florida,USA,County,,,CISA
+voteokaloosa.gov,1,,okaloosa county,Florida,USA,County,,,CISA
+voteokeechobee.gov,1,,okeechobee county,Florida,USA,County,,,CISA
+voteosceola.gov,1,,osceola county,Florida,USA,County,,,CISA
+votepalmbeach.gov,1,,palm beach county,Florida,USA,County,,,CISA
+votepinellas.gov,1,,pinellas county,Florida,USA,County,,,CISA
+voterinfo.whitecountyin.us,1,,White County,Indiana,USA,County,,,Manual Review
+voterockfordil.gov,1,Rockford,,Illinois,USA,Local,,,CISA
+votesjc.gov,1,,st johns county,Florida,USA,County,,,CISA
+votestanlycountync.gov,1,,stanly county,North Carolina,USA,County,,,CISA
+votetexas.gov,1,,,Texas,USA,State,,,CISA
+votewa.gov,1,,,Washington,USA,State,,,CISA
+votewalton.gov,1,,Walton County,Florida,USA,County,,,CISA
+wa.gov,1,,,Washington,USA,State,,,CISA
+wabasha.org,1,wabasha,,minnesota,USA,Local,,,GSA
+wakeforestnc.gov,1,Wake Forest,,North Carolina,USA,Local,,,CISA
+wakegov.com,1,,wake county,North Carolina,USA,County,,,GSA
+walberg.house.gov,1,,,Michigan,,rep,,5,Manual Review
+walkercountyga.gov,1,,walker county,Georgia,USA,County,,,CISA
+walpole-ma.gov,0,Walpole,,Massachusetts,USA,Local,,,CISA
+warrencountyny.gov,1,,warren county,New York,USA,County,,,CISA
+warrencountypa.gov,1,,warren county,Pennsylvania,USA,County,,,CISA
+warrickcounty.gov,1,,warrick county,Indiana,USA,County,,,CISA
+warwickri.gov,1,Warwick,,Rhode Island,USA,Local,,,CISA
+washco.utah.gov,0,,Washington County,Utah,USA,County,,,Manual Review
+washcowisco.gov,1,,washington county,Wisconsin,USA,County,,,CISA
+washingtonco.illinois.gov,1,,Washington County,Illinois,USA,County,,,Manual Review
+washingtoncounty.in.gov,1,,Washington County,Indiana,USA,County,,,Manual Review
+washingtoncountyga.gov,1,,washington county,Georgia,USA,County,,,CISA
+washingtoncountyny.gov,1,,washington county,New York,USA,County,,,CISA
+washingtoncountyor.gov,1,,washington county,Oregon,USA,County,,,CISA
+washoecounty.gov,1,,washoe county,Nevada,USA,County,,,CISA
+wataugacounty.org,1,,watauga county,North Carolina,USA,County,,,GSA
+waterfordmi.gov,1,Waterford,,Michigan,USA,Local,,,CISA
+watertownmi.gov,1,Grand Ledge,,Michigan,USA,Local,,,CISA
+waterville-me.gov,1,Waterville,,Maine,USA,Local,,,CISA
+waukeshacounty.gov,1,,waukesha county,Wisconsin,USA,County,,,CISA
+waupacacounty-wi.gov,1,,waupaca county,Wisconsin,USA,County,,,CISA
+wauwatosa.net,1,wauwatosa,,wisconsin,USA,Local,,,GSA
+waynecounty.com,1,,wayne county,Michigan,USA,County,,,GSA
+waynecountyga.us,1,,Wayne County,Georgia,USA,County,,,Manual Review
+waynecountypa.gov,1,,wayne county,Pennsylvania,USA,County,,,CISA
+waynegov.com,1,,wayne county,North Carolina,USA,County,,,GSA
+web.co.wayne.ny.us,1,,Wayne County,New York,USA,County,,,Manual Review
+web2.co.merced.ca.us,1,,Merced County,California,USA,County,,,Manual Review
+webbcountytx.gov,1,,webb county,Texas,USA,County,,,CISA
+weber.house.gov,1,,,Texas,,rep,,14,Manual Review
+webserver.rilin.state.ri.us,1,,,Rhode Island,USA,State,,,Manual Review
+weld.gov,1,,weld county,Colorado,USA,County,,,CISA
+wellesleyma.gov,0,Wellesley,,Massachusetts,USA,Local,,,CISA
+wellingtoncolorado.gov,1,Wellington,,Colorado,USA,Local,,,CISA
+westalliswi.gov,1,West Allis,,Wisconsin,USA,Local,,,CISA
+westbrookmaine.com,1,westbrook,,maine,USA,Local,,,GSA
+westerlyri.gov,1,Westerly,,Rhode Island,USA,Local,,,CISA
+westfordma.gov,0,Westford,,Massachusetts,USA,Local,,,CISA
+westlakeland.govoffice2.com,1,west lakeland township,,minnesota,USA,Local,,,GSA
+westlampeter.com,1,west lampeter township,,pennsylvania,USA,Local,,,GSA
+westlinnoregon.gov,1,West Linn,,Oregon,USA,Local,,,CISA
+westminster-ca.gov,1,Westminster,,California,USA,Local,,,CISA
+westonfl.org,1,weston,,florida,USA,Local,,,GSA
+westwarwickri.org,1,west warwick,,rhode island,USA,Local,,,GSA
+wgtownri.org,1,west greenwich,,rhode island,USA,Local,,,GSA
+whatcomcounty.us,1,,Whatcom County,Washington,USA,County,,,Manual Review
+wheaton.il.us,1,Wheaton,,Illinois,USA,Local,,,Manual Review
+whitecounty-il.gov,1,,white county,Illinois,USA,County,,,CISA
+whiteside.org,1,,whiteside county,Illinois,USA,County,,,GSA
+whitewater-wi.gov,1,Whitewater,,Wisconsin,USA,Local,,,CISA
+whitfieldcountyga.com,1,whitfield,,georgia,USA,Local,,,GSA
+whitmancounty.org,1,,whitman county,Washington,USA,County,,,GSA
+wi.gov,1,,,Wisconsin,USA,State,,,CISA
+wild.house.gov,1,,,Pennsylvania,,rep,,7,Manual Review
+wilkescounty.net,1,,wilkes county,North Carolina,USA,County,,,GSA
+willcountyclerk.gov,1,,will county,Illinois,USA,County,,,CISA
+williamsburgva.gov,1,Williamsburg,,Virginia,USA,Local,,,CISA
+williamsoncounty-tn.gov,0,,williamson county,Tennessee,USA,County,,,CISA
+williamsoncountyil.gov,1,,williamson county,Illinois,USA,County,,,CISA
+wilmette.com,1,wilmette,,illinois,USA,Local,,,GSA
+wincoil.us,1,,Winnebago County,Illinois,USA,County,,,Manual Review
+windhammaine.us,1,windham,,maine,USA,Local,,,GSA
+windhamnh.gov,1,Windham,,New Hampshire,USA,Local,,,CISA
+winslowaz.gov,1,Winslow,,Arizona,USA,Local,,,CISA
+wisconsin.gov,1,,,Wisconsin,USA,State,,,CISA
+wisconsinhistory.org,1,,,Wisconsin,USA,State,,,GSA
+wlv.org,1,westlake village,,california,USA,Local,,,GSA
+wolfeboronh.us,1,wolfeboro,,new hampshire,USA,Local,,,GSA
+woodburn-or.gov,1,Woodburn,,Oregon,USA,Local,,,CISA
+woodburymn.gov,1,Woodbury,,Minnesota,USA,Local,,,CISA
+woodridgeil.gov,1,Woodridge,,Illinois,USA,Local,,,CISA
+worcesterma.gov,0,Worcester,,Massachusetts,USA,Local,,,CISA
+wpb.org,1,west palm beach,,florida,USA,Local,,,GSA
+wrga.gov,1,Warner Robins,,Georgia,USA,Local,,,CISA
+wspmn.gov,1,West Saint Paul,,Minnesota,USA,Local,,,CISA
+wvlegislature.gov,0,,,West Virginia,USA,State,,,CISA
+ww2.nycourts.gov,1,,,New York,USA,State,,,CISA
+wycokck.org,1,kansas city,,kansas,USA,Local,,,GSA
+yadkincountync.gov,1,,yadkin county,North Carolina,USA,County,,,CISA
+yakimacounty.us,1,,yakima county,Washington,USA,County,,,GSA
+yanceycountync.gov,1,,yancey county,North Carolina,USA,County,,,CISA
+yatescounty.org,1,,yates county,New York,USA,County,,,GSA
+yavapaiaz.gov,1,,yavapai county,Arizona,USA,County,,,CISA
+yorkcounty.gov,1,,york county,Virginia,USA,County,,,CISA
+yorkcountypa.gov,1,,york county,Pennsylvania,USA,County,,,CISA
+yucaipa.org,1,yucaipa,,california,USA,Local,,,GSA
+yumacountyaz.gov,1,,yuma county,Arizona,USA,County,,,CISA
+zeldin.house.gov,1,,,New York,,rep,,1,Manual Review
