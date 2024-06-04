@@ -1,0 +1,5 @@
+,Federal,State,County,Local,Rep.,Senator,Total excl. Fed,Total,State Correct,County Correct,Local Correct,Rep. Correct,Senator Correct,State Mistargeted,County Mistargeted,Local Mistargeted,Rep. Mistargeted,Sen. Mistargeted,Overall Mistargeted,County Mis. - In State,Local Mis. - In State,Rep. Mis - In State
+Voting Logistics,4.85,30.06,22.91,2.62,0.12,0,55.7,60.55,14.5,1.89,0.63,0.02,0,51.75,91.73,75.92,85.36,NA,69.4,34.83,63.6,83.75
+General Election Topics,9.1,11.99,4.75,0.52,0,0,17.26,26.36,4.1,0.42,0.13,0,0,65.8,91.12,75.06,18.75,100,73.05,44.29,66.52,0
+Candidates,8.44,11.87,2.66,0.18,0,0,14.71,23.15,3,0.11,0.03,0,0,74.73,95.7,81.79,100,85.19,78.61,23.83,72.53,98.99
+All Queries,7.08,19.67,11.86,1.31,0.05,0,32.89,39.97,8.2,0.96,0.31,0.01,0,58.29,91.94,76.08,85.47,95.88,71.18,35.07,64.29,83.85
